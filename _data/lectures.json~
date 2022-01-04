@@ -1,0 +1,13 @@
+[
+    {"01/01/01" : {
+	"Topic" : "Hello world",
+	"Video" : ["strings"],
+	"Handout" : ["for"],
+	"Files" : ["now", "(two of them!)"]
+    },
+     {"02/02/02" : {
+	 "Topic": "Some empty lists/nonexistent fields",
+	 "Handout" : []
+     }
+      ]
+	 
