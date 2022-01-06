@@ -1,0 +1,7 @@
+---
+---
+
+{% assign 
+{% for lecture in site.data.[page.json_file] %}
+
+{

@@ -49,3 +49,15 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  - tables
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "tables"
+    values:
+      layout: "generated_table"
+ 
