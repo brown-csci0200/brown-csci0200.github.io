@@ -52,6 +52,7 @@ theme: minima
 
 collections:
   - tables
+  - staff
 
 defaults:
   -
@@ -60,4 +61,11 @@ defaults:
       type: "tables"
     values:
       layout: "generated_table"
+  -
+    scope:
+      path: ""
+      type: "staff"
+    values:
+      layout: "staff"
+      
  
