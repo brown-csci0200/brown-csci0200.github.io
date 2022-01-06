@@ -3,7 +3,7 @@ title: "Assignments"
 layout: default
 ---
 
-#{{ page.title }}#
+# {{ page.title }}
 
 ## Homeworks ##
 

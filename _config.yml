@@ -50,6 +50,13 @@ theme: minima
 #   - vendor/gems/
 #   - vendor/ruby/
 
+header_pages:
+  - about.md
+  - lectures.md
+  - assignments.md
+  - calendar.md
+  - staff.md
+
 collections:
   - tables
   - staff
@@ -67,5 +74,11 @@ defaults:
       type: "staff"
     values:
       layout: "staff"
+  -
+    scope:
+      path: "lecture_annotations"
+    values:
+      layout: "lecture_annotations"
+      
       
  
