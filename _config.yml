@@ -52,10 +52,10 @@ theme: minima
 
 header_pages:
   - about.md
-  - lectures.md
-  - assignments.md
-  - calendar.md
-  - staff.md
+#  - lectures.md
+#  - assignments.md
+#  - calendar.md
+#  - staff.md
 
 collections:
   - tables
