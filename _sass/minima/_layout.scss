@@ -203,6 +203,8 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
+  background: linear-gradient(to top left, #bccfd4, #8ab8c3,#e9e9e6, #5788a8);
+  font-family: 'Cutive Mono', monospace;
 }
 
 .page-heading {
