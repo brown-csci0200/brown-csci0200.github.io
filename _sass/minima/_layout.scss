@@ -31,11 +31,16 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
   display: flex;
   flex-direction: column;
+  z-index: 20;
+
+  @media only screen and (max-width: 600px) {
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
 
   .nav-trigger {
     display: none;
