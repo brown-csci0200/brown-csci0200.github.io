@@ -1,5 +1,6 @@
 ---
 title: "Assignments"
+windowTitle: Assignments
 layout: default
 icon: assignments_icon.png
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Calendars"
+windowTitle: Calendars
 layout: default
 icon: hours_icon.png
 ---
