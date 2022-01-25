@@ -42,6 +42,9 @@ theme: minima
 nav: top
 encoding: utf8
 
+sass:
+  sass_dir: _sass
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/

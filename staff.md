@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Staff
+icon: staff_icon.png
 ---
 
 # {{ page.title }}

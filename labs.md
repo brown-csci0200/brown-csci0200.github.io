@@ -1,5 +1,6 @@
 ---
 title: "Labs"
+icon: labs_icon.png
 layout: default
 ---
 

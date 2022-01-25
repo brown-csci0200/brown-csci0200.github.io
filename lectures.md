@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lectures
+icon: lectures_icon.png
 permalink: /lectures/
 ---
 

@@ -7,56 +7,56 @@
 "minima/initialize";
 
 /** STAFF PAGE STYLING **/
-.uta-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 20px;
+// .uta-container {
+//   display: flex;
+//   flex-direction: row;
+//   flex-wrap: wrap;
+//   gap: 20px;
 
-    .staff-wrapper {
-      width: 100%;
-      height: fit-content;
-      border: solid 1px black;
-      display: flex;
-      flex-direction: row;
-      flex-wrap: wrap;
-      gap: 20px;
-      border-radius: 20px;
-      overflow: hidden;
-      transition: 0.2s ease;
+//     .staff-wrapper {
+//       width: 100%;
+//       height: fit-content;
+//       border: solid 1px black;
+//       display: flex;
+//       flex-direction: row;
+//       flex-wrap: wrap;
+//       gap: 20px;
+//       border-radius: 20px;
+//       overflow: hidden;
+//       transition: 0.2s ease;
 
-      .staff-photo {
-        width: 45%;
-        // min-width: 100%;
-        overflow: hidden;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
+//       .staff-photo {
+//         width: 45%;
+//         // min-width: 100%;
+//         overflow: hidden;
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//       }
 
-      .staff-info {
-        width: 45%;
-        // min-width: 100%;
-        padding: 20px;
-        height: fit-content;
-        display: flex;
-        flex-direction: column;
+//       .staff-info {
+//         width: 45%;
+//         // min-width: 100%;
+//         padding: 20px;
+//         height: fit-content;
+//         display: flex;
+//         flex-direction: column;
 
-          .staff-name {
-            font-weight: bold;
-          }
+//           .staff-name {
+//             font-weight: bold;
+//           }
 
-          .staff-pronouns {
+//           .staff-pronouns {
 
-          }
+//           }
 
-          .staff-bio {
+//           .staff-bio {
 
-          }
-      }
+//           }
+//       }
 
-      &:hover {
-        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-      }
-    }
-}
+//       &:hover {
+//         box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+//       }
+//     }
+// }
