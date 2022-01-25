@@ -122,13 +122,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
-}
-
-.footer-heading {
-  @include relative-font-size(1.125);
-  margin-bottom: $spacing-unit / 2;
+  width: 100%;
+  bottom: 0px;
+  position: fixed;
 }
 
 .feed-subscribe .svg-icon {
