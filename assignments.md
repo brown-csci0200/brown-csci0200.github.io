@@ -3,6 +3,8 @@ title: "Assignments"
 windowTitle: Assignments
 layout: default
 icon: assignments_icon.png
+link_types: []
+links: []
 ---
 
 <!-- # {{ page.title }} -->
@@ -16,4 +18,3 @@ icon: assignments_icon.png
 ## Projects ##
 
 {% include table_helper.html name="projects_table" %}
-
