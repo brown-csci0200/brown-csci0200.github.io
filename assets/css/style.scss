@@ -1,0 +1,126 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+"minima/initialize";
+
+/** STAFF PAGE STYLING **/
+.uta-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+
+    .staff-wrapper {
+      width: 100%;
+      height: fit-content;
+      border: solid 1px black;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 20px;
+      border-radius: 20px;
+      overflow: hidden;
+      transition: 0.2s ease;
+
+      .staff-photo {
+        width: 45%;
+        // min-width: 100%;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .staff-info {
+        width: 45%;
+        // min-width: 100%;
+        padding: 20px;
+        height: fit-content;
+        display: flex;
+        flex-direction: column;
+
+          .staff-name {
+            font-weight: bold;
+          }
+
+          .staff-pronouns {
+
+          }
+
+          .staff-bio {
+
+          }
+      }
+
+      &:hover {
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+      }
+    }
+}
+
+/** SITE SIDEBAR **/
+
+.site-sidebar {
+  padding: 30px 5px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  width: 100px;
+  height: 100%;
+
+  .sidebar-wrapper {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+    .site-nav {
+    // background-color: yellow;
+    display: flex;
+    width: 80% !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .nav-trigger {
+      width: 100% !important;
+    }
+
+    .trigger {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+    }
+  }
+  }
+
+  
+
+  .link-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 5px;
+    transition: 0.3s ease;
+
+    &:hover {
+      background-color: lightblue;
+    }
+
+    .image {
+
+    }
+    
+    .text {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1> {{ page.title }} </h2>
+
+{% assign QUICK_LINKS = page.links | where:  'Type', "QuickLink" %}
+{% if QUICK_LINKS.size != 0 %}
+<div class="QuickLinksContainer">
+  <h3>Quick Links</h3>
+  {% for LINK in QUICK_LINKS %}
+  <div class="QuickLink">
+  <a href={{ LINK["Link"] }}>{{ LINK["Title"] }}</a>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% for LINK_TYPE in page.link_types %}
+{% assign LINKS_OF_TYPE = page.links | where: 'Type', LINK_TYPE %}
+{% if LINKS_OF_TYPE.size != 0 %}
+<div class="LinksContainer">
+<h3>{{LINK_TYPE}}</h3>
+{% for LINK in LINKS_OF_TYPE %}
+<p><a href={{ LINK["Link"] }}>{{ LINK["Title"] }}</a></p>
+{% endfor %}
+</div>
+{% endif %}
+{% endfor %}
