@@ -22,22 +22,25 @@
       flex-direction: row;
       flex-wrap: wrap;
       gap: 20px;
-      border-radius: 20px;
       overflow: hidden;
       transition: 0.2s ease;
 
       .staff-photo {
-        width: 45%;
+        width: 20%;
         // min-width: 100%;
         overflow: hidden;
         display: flex;
         justify-content: center;
         align-items: center;
-        object-fit: cover
+
+        .staff-image {
+          height: 100%;
+          object-fit: cover;
+        }
       }
 
       .staff-info {
-        width: 45%;
+        width: 75%;
         // min-width: 100%;
         padding: 20px;
         height: fit-content;
@@ -180,7 +183,7 @@ header {
   border: 2px solid #d4d4d4;
   padding: 1px;
   box-shadow: 2px 2px 2px #4d4c4c;
-  margin-top: 10%;
+  margin-top: 30px;
   margin-bottom: 8%;
 
     .title {
