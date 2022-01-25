@@ -185,8 +185,33 @@
       line-height: 1.2;
       border: 4px solid #d4d4d4;
       background: navy;
-    }
 
+      .button {
+        display: block;
+        padding: 0.25em 0.75em
+;
+        color: #000;
+        background-color: silver;
+        position: relative;
+        z-index: 10;
+        float: right;
+        border-left: 2px solid #ededed;
+        border-top: 2px solid #ededed;
+        border-right: 2px solid #404040;
+        border-bottom: 2px solid #404040;
+        .button-img {
+          position:absolute;
+          left:1px;
+          top:0px;
+        }
+      }
+      .button:active{
+        border-left: 2px solid #000000;
+        border-top: 2px solid #000000;
+        border-right: 2px solid #ededed;
+        border-bottom: 2px solid #ededed;
+      }
+    }
     .window-content {
       font-family: monospace;
       border-top: 3px solid #4d4c4c;
