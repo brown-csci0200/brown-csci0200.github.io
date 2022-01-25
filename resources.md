@@ -1,6 +1,7 @@
 ---
 layout: resource-page
 title: Resources
+windowTitle: Resources
 icon: resources_icon.png
 link_types: ["General Resources", "Java Guides", "Pyret Guides", "Python Guides"]
 links: [

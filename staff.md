@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Staff
+windowTitle: Staff
 icon: staff_icon.png
 ---
 
