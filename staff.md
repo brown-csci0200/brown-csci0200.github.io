@@ -3,6 +3,8 @@ layout: default
 title: Staff
 windowTitle: Staff
 icon: staff_icon.png
+link_types: []
+links: []
 ---
 
 <!-- # {{ page.title }} -->
