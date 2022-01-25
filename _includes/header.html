@@ -18,6 +18,12 @@
         </label>
 
         <div class="trigger">
+          <a class="link-wrapper" href="./">
+            <div class="image">
+              <img src="/assets/images/icons/home_icon.png" alt="Home page"/>
+            </div>
+            <div class="text">Home</div>
+          </a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}

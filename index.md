@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+icon: home_icon.png
 ---
 
 # Welcome to CSCI 200 at Brown!
