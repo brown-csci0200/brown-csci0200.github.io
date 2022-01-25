@@ -5,6 +5,6 @@ icon: labs_icon.png
 layout: default
 ---
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
 {% include table_helper.html name="labs_table" %}

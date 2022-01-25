@@ -5,7 +5,7 @@ windowTitle: Staff
 icon: staff_icon.png
 ---
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
 ## Professors
 

@@ -5,7 +5,7 @@ layout: default
 icon: assignments_icon.png
 ---
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
 **See also the Assignments [calendar]({{ "/calendars#Assignments" | relative_url }}).**
 
