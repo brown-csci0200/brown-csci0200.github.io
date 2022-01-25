@@ -1,6 +1,7 @@
 ---
 title: "Assignments"
 layout: default
+icon: assignments_icon.png
 ---
 
 # {{ page.title }}

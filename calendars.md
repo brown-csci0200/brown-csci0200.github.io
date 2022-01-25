@@ -1,7 +1,7 @@
 ---
 title: "Calendars"
 layout: default
-icon: calendar_icon.png
+icon: hours_icon.png
 ---
 
 # {{ page.title }}

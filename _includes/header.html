@@ -1,10 +1,10 @@
-<header class="site-header">
+<div class="site-sidebar">
 
-  <div class="wrapper">
+  <div class="sidebar-wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <!-- {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%} -->
+    <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
@@ -22,10 +22,10 @@
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
             <a class="link-wrapper" href="{{ my_page.url | relative_url }}">
-              <div class="icon-wrapper">
-                <img src="{{ my_page.icon }}"
+              <div class="image">
+                <img src="/assets/images/icons/{{my_page.icon}}" alt="{{my_page.title}}"/>
               </div>
-              <a class="page-link">{{ my_page.title | escape }}</a>
+              <div class="text">{{ my_page.title | escape }}</div>
             </a>
             {%- endif -%}
           {%- endfor -%}
@@ -33,4 +33,4 @@
       </nav>
     {%- endif -%}
   </div>
-</header>
+</div>

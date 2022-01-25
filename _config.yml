@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "[UNDER CONSTRUCTION] CSCI 0200 Spring 2022"
+title: "CSCI 0200 Spring 2022"
 # description: >- # this means to ignore newlines until "baseurl:"
 # Website under construction
 baseurl: "" # the subpath of your site, e.g. /blog
