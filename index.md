@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to CSCI 200 at Brown!
 
-CSCI 200 is a new course thatis replacing the former CSCI 160 and CSCI 180. Students will take CSCI 200 after taking CSCI 111, 112, 150, 170, or 190. It will be taught by [Kathi Fisler](https://cs.brown.edu/~kfisler/) and [Milda Zizyte](https://cs.brown.edu/people/faculty/mzizyte/).
+CSCI 200 is a new course that replaces the former CSCI 160 and CSCI 180. Students will take CSCI 200 after taking CSCI 111, 112, 150, 170, or 190. It will be taught by [Kathi Fisler](https://cs.brown.edu/~kfisler/) and [Milda Zizyte](https://cs.brown.edu/people/faculty/mzizyte/).
 
 Starting immediately, CS200 will be **offered every semester** (both fall and spring). Hopefully this will create more flexible options for students.
 
