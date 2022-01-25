@@ -1,4 +1,19 @@
 divs:
+"wrapper"
+  wrapper for all content, styling should probably be blank
+
+"footer-col-wrapper"
+  wrapper for all of the footer columns
+  see: _includes/footer.html
+
+"footer-col"
+  footer column
+  see: _includes/footer.html
+
+"page-content"
+  content wrapper for all pages
+  see: layouts/default.html
+  
 
 "QuickLinksContainer"
   surrounding box for Quick Links
