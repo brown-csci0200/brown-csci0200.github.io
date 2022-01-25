@@ -1,5 +1,5 @@
 ---
-layout: resource-page
+layout: default
 title: Resources
 windowTitle: Resources
 icon: resources_icon.png
@@ -23,12 +23,12 @@ links: [
   {
     "Title" : "VSCode and Python Setup Guide",
     "Link" : "https://hackmd.io/itkCN2TOSeGWoTYDlfX1jw",
-    "Type": "Python Guides"
+    "Type" : "Python Guides"
   },
   {
     "Title" : "Java Style Guide",
     "Link" : "https://hackmd.io/io7Gock2TZqC6UnBwpjP2w",
-    "Type": "Java Guides"
+    "Type" : "Java Guides"
   },
   {
     "Title" : "Collaboration Policy",
