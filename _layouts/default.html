@@ -11,13 +11,20 @@
       <div class="wrapper">
         <div class="window">
           <div class="title">
-            <button class="button">
-              <img src = "/assets/images/icons/close_icon.png" alt="X" class="img">
-            </button>
-            <button class="button">
-              <img src = "/assets/images/icons/question_icon.png" alt="?" class="img">
-            </button>
-            {{ page.windowTitle }}
+            <div class="title-text">
+              {{ page.windowTitle }}
+            </div>
+            <div class="buttons-wrapper">
+              <button class="button">
+                <img src = "/assets/images/icons/question_icon.png" alt="help">
+              </button>
+              <button class="button">
+                <img src = "/assets/images/icon/minimize.svg" alt="minimize">
+              </button>
+              <button class="button">
+                <img src = "/assets/images/icons/close_icon.png" alt="close">
+              </button>
+            </div>
           </div>
           <div class="window-content">
             {{ content }}
