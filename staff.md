@@ -33,8 +33,9 @@ title: Staff
 {% assign UTAs = site.staff | where: 'role', 'UTA' %}
 {% if UTAs.size != 0 %}
 ## UTAs
-
-{% for staffer in UTAs %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+<div class="uta-container">
+  {% for staffer in UTAs %}
+  {{ staffer }}
+  {% endfor %}
+  {% endif %}
+</div>

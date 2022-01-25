@@ -40,6 +40,7 @@ theme: minima
 #
 
 nav: top
+encoding: utf8
 
 exclude:
    - .sass-cache/

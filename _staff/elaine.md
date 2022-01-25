@@ -1,0 +1,8 @@
+---
+name: Elaine Chen
+pronouns: She/Her
+role: UTA 
+email: elaine_chen@brown.edu
+bio: Hi! I'm a senior studying CS and English. In my free time, I like reading and running. I also mighttt have an addiction to green tea.
+photo: elaine.jpg
+---
