@@ -11,16 +11,34 @@
       <div class="wrapper">
         <div class="window">
           <div class="title">
-            <button class="button">
-              <img src = "/assets/images/icons/close_icon.png" alt="X" class="img">
-            </button>
-            <button class="button">
-              <img src = "/assets/images/icons/question_icon.png" alt="?" class="img">
-            </button>
-            {{ page.windowTitle }}
+            <div class="title-text">
+              {{ page.windowTitle }}
+            </div>
+            <div class="buttons-wrapper">
+              <button class="button">
+                <img src = "/assets/images/icons/question_icon.png" alt="help">
+              </button>
+              <button class="button">
+                <img src = "/assets/images/icon/minimize.svg" alt="minimize">
+              </button>
+              <button class="button">
+                <img src = "/assets/images/icons/close_icon.png" alt="close">
+              </button>
+            </div>
           </div>
           <div class="window-content">
             {{ content }}
+            {% for LINK_TYPE in page.link_types %}
+            {% assign LINKS_OF_TYPE = page.links | where: 'Type', LINK_TYPE %}
+            {% if LINKS_OF_TYPE.size != 0 %}
+            <div class="LinksContainer">
+            <h3>{{LINK_TYPE}}</h3>
+            {% for LINK in LINKS_OF_TYPE %}
+            <p><a href={{ LINK["Link"] }}>{{ LINK["Title"] }}</a></p>
+            {% endfor %}
+            </div>
+            {% endif %}
+            {% endfor %}
           </div>
         </div>
       </div>
