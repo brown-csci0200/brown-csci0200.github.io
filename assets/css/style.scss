@@ -15,7 +15,7 @@
   gap: 20px;
 
     .staff {
-      width: 100%;        
+      width: 100%;
     }
 
     .staff-wrapper {
@@ -297,12 +297,11 @@ header {
   display: block;
   margin: 5px 20px 5px 5px;
   width: 30%;
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 1150px) {
     width: 100%;
   }
 }
 
-/* LINKS */
 .links-subcontainer {
   display: flex;
   flex-direction: column;
@@ -311,7 +310,7 @@ header {
   margin-top: -10px;
   min-height: 50px;
   max-height: 110px;
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 1150px) {
     max-height: none;
   }
 }
