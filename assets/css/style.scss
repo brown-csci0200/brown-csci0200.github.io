@@ -177,7 +177,7 @@ header {
   width: 100%;
   padding: 5px 0 5px 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   flex-direction: row;
   background: #d4d4d4;
@@ -209,9 +209,6 @@ header {
     cursor: pointer;
   }
 
-  .time-date {
-    padding-right: 10px;
-  }
 }
 
 /** WINDOW **/
