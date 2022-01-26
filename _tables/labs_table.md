@@ -27,8 +27,8 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 6"]
-      "Out" : ["03/08/22"]
+      "Lab" : ["Lab 6"],
+      "Out" : ["03/08/22"],
       "Additional Materials" : []
    }, 
    {
