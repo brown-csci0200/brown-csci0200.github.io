@@ -74,6 +74,11 @@ links: [
     "Title" : "RegEx Guide",
     "Link" : "https://hackmd.io/bOoUYTonQTa9qGLTG09PIQ",
     "Type" : "General Resources"
+  },
+  {
+    "Title" : "Pyret Essentials",
+    "Link" : "https://hackmd.io/@csci0200/pyret-overview",
+    "Type" : "Pyret Guides"
   }
 ]
 ---
