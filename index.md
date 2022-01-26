@@ -7,37 +7,37 @@ link_types: ["QuickLinks"]
 links: [
   {
     "Title" : "Syllabus",
-     "Link" : "https://edstem.org/us/courses/16807/discussion/",
+     "Link" : "https://hackmd.io/eBpkkxSbQtK9N2PcJlc11A",
      "Type" : "QuickLinks"
   },
   {
     "Title" : "Gradescope",
-    "Link" : "https://hackmd.io/eBpkkxSbQtK9N2PcJlc11A",
+    "Link" : "https://www.gradescope.com/courses/344946",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Hours Sign-up Sheet",
-    "Link" : "https://hackmd.io/7azYQstzS4a6udptmaADCw",
+    "Link" : "https://forms.gle/vDrRap4xQsNVcGN86",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Zoom",
-    "Link" : "https://hackmd.io/itkCN2TOSeGWoTYDlfX1jw",
+    "Link" : "https://brown.hosted.panopto.com/Panopto/Pages/Auth/Login.aspx?instance=Shibboleth&Auth=Viewer&ReturnUrl=%2fPanopto%2fPages%2fSessions%2fList.aspx%3ffolderID%3d3a2d0c7c-0522-448b-9ecb-ae25017f7e19",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "EdStem",
-    "Link" : "https://hackmd.io/io7Gock2TZqC6UnBwpjP2w",
+    "Link" : "https://edstem.org/us/courses/16807/discussion/",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Lab Switch Form",
-    "Link" : "https://hackmd.io/wStcp9Z4TH641sgw7r6Zyw?view",
+    "Link" : "https://docs.google.com/forms/d/1ZdogESmCTK43wT_0e3MuEeMeZYWIjcXB-SJuWurWgxo/edit",
     "Type" : "QuickLinks"
   },
   {
     "Title" : "Extension Request Form",
-    "Link" : "https://hackmd.io/wStcp9Z4TH641sgw7r6Zyw?view",
+    "Link" : "https://docs.google.com/forms/u/1/d/e/1FAIpQLSfFqvYPht8DpP7_SlnbdAXU5j67DRLhf_coOrmdQaehHkq4iw/viewform?usp=sf_link",
     "Type" : "QuickLinks"
   }
 ]
