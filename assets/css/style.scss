@@ -81,11 +81,14 @@
 
     .site-nav {
       display: flex;
-      width: 80% !important;
+      width: 90px;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       left: 15px;
+      top: 12px;
+      position: fixed;
+      z-index: 21;
 
     .nav-trigger {
       width: 100% !important;
@@ -185,6 +188,11 @@ header {
   box-shadow: 2px 2px 2px #4d4c4c;
   margin-bottom: 8%;
 
+  @media only screen and (max-width: 600px) {
+    margin-top: 70px;
+  }
+
+
     .title {
       font-family: 'Press Start 2P', cursive;
       font-size: 1.2rem;
@@ -257,6 +265,7 @@ header {
 /** Header / title **/
 
 .header {
+  position: relative;
   margin-top: 30px;
   font-size: 3rem;
   font-family: "Press Start 2P", cursive;
@@ -266,9 +275,26 @@ header {
   align-items: center;
   color: white;
   text-shadow: 2px 2px #5d5d5d;
+  width: 100%;
+  z-index: 20;
 
   @media only screen and (max-width: 600px) {
-    margin-top: 5px !important;
     font-size: 2rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: fixed;
+    margin-top: 0px !important;
+    top: 0px;
+    left: 0px;
+    height: 60px;
+    width: 100vw;
+    background-color:rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+
+    .text {
+      right: 20px;
+      position: relative;
+    }
   }
 }
