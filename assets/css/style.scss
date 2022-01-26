@@ -85,6 +85,7 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      left: 15px;
 
     .nav-trigger {
       width: 100% !important;
@@ -182,7 +183,6 @@ header {
   border: 2px solid #d4d4d4;
   padding: 1px;
   box-shadow: 2px 2px 2px #4d4c4c;
-  margin-top: 30px;
   margin-bottom: 8%;
 
     .title {
@@ -251,4 +251,24 @@ header {
       padding: 15px 15px 0px 15px;
       box-shadow: inset 2px 0.5px 2px #4d4c4c;
     }
+}
+
+
+/** Header / title **/
+
+.header {
+  margin-top: 30px;
+  font-size: 3rem;
+  font-family: "Press Start 2P", cursive;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px #5d5d5d;
+
+  @media only screen and (max-width: 600px) {
+    margin-top: 5px !important;
+    font-size: 2rem;
+  }
 }
