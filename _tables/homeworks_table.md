@@ -7,32 +7,17 @@ contents: [
     "In" : ["01/28/22"]
    },
    {
-    "Assignment" : ["Homework 1A (15 students)"],
+    "Assignment" : ["Homework 1A (15 students)", "Homework 1A (17/19/111 students)"],
     "Out" : ["01/28/22"],
     "In" : ["02/01/22"]
    },
    {
-    "Assignment" : ["Homework 1A (111/17/19 students)"],
-    "Out" : ["01/28/22"],
-    "In" : ["02/01/22"]
-   },
-   {
-    "Assignment" : ["Homework 1B (15 students)"],
+    "Assignment" : ["Homework 1B (15 students)", "Homework 1B (17/19/111 students)"],
     "Out" : ["02/02/22"],
     "In" : ["02/06/22"]
    },
    {
-    "Assignment" : ["Homework 1B (111/17/19 students)"],
-    "Out" : ["02/02/22"],
-    "In" : ["02/06/22"]
-   },
-   {
-    "Assignment" : ["Homework 1C (15 students)"],
-    "Out" : ["02/04/22"],
-    "In" : ["02/10/22"]
-   },
-   {
-    "Assignment" : ["Homework 1C (111/17/19 students)"],
+    "Assignment" : ["Homework 1C (15 students)", "Homework 1C (17/19/111 students)"],
     "Out" : ["02/04/22"],
     "In" : ["02/10/22"]
    },

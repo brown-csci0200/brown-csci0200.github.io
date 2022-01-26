@@ -20,18 +20,25 @@
       {{ v.first }}
       {% endif %}
       {% else %}
-      <ul>
-	{% for i in v %}
-	<li>
-	  {% assign k = i.first.first %}
-	  {% if k %}
-	  <a href="{{i[k] | relative_url}}">{{k}}</a>
-	  {% else %}
-	  {{ i }}
-	  {% endif %}
-	</li>
-	{% endfor %}
-      </ul>
+      	{% for i in v %}
+        {% assign k = i.first.first %}
+        {% if col == page.cols[0] %}
+      	  {% if k %}
+      	  <a href="{{i[k] | relative_url}}">{{k}}</a>
+      	  {% else %}
+      	  {{ i }}
+      	  {% endif %}
+          <br>
+        {% else %}
+        <ul><li>
+      	  {% if k %}
+      	  <a href="{{i[k] | relative_url}}">{{k}}</a>
+      	  {% else %}
+      	  {{ i }}
+      	  {% endif %}
+        </li></ul>
+        {% endif %}
+      	{% endfor %}
       {% endif %}
     </td>
     {% endfor %}
