@@ -204,8 +204,6 @@ header {
 
       .button {
         display: block;
-        padding: 0.75em;
-        margin: 3px 0 3px 0;
         color: #000;
         background-color: silver;
         position: relative;
@@ -218,15 +216,16 @@ header {
       }
 
       .buttons-wrapper {
+        margin: 5px 0 5px 0;
         display: flex;
         flex-direction: row;
         justify-content: flex-end;
         position: relative;
+        width: 33%;
 
         @media only screen and (max-width: 600px) {
           display: none;
         }
-
       }
 
       .buttons-wrapper > button:last-child {
@@ -241,6 +240,10 @@ header {
         border-bottom: 2px solid #ededed;
       }
 
+      .button > img {
+        width: 200%;
+      }
+
     }
     .window-content {
       font-family: monospace;
@@ -251,4 +254,30 @@ header {
       padding: 15px 15px 0px 15px;
       box-shadow: inset 2px 0.5px 2px #4d4c4c;
     }
+}
+
+/* LINKS */
+.links-subcontainer > p {
+  margin: 5px 20px 5px 5px;
+  width: 30%;
+  @media only screen and (max-width: 600px) {
+    width: 100%;
+  }
+}
+
+.links-subcontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: -10px;
+  min-height: 50px;
+  max-height: 150px;
+  @media only screen and (max-width: 600px) {
+    height: 100%;
+  }
+}
+
+.links-container {
+  padding-bottom: 10px;
 }
