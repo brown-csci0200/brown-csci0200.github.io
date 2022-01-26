@@ -5,6 +5,41 @@ contents: [
     "Assignment" : [{"Homework 0" : "https://hackmd.io/@csci0200/hw0-spr22"}],
     "Out" : ["01/26/22"],
     "In" : ["01/28/22"]
+   },
+   {
+    "Assignment" : ["Homework 1A"],
+    "Out" : ["01/28/22"],
+    "In" : ["02/01/22"]
+   },
+   {
+    "Assignment" : ["Homework 1B"],
+    "Out" : ["02/02/22"],
+    "In" : ["02/06/22"]
+   },
+   {
+    "Assignment" : ["Homework 1C"],
+    "Out" : ["02/04/22"],
+    "In" : ["02/10/22"]
+   },
+   {
+    "Assignment" : ["Homework 2"],
+    "Out" : ["02/11/22"],
+    "In" : ["02/17/22"]
+   },
+   {
+    "Assignment" : ["Midterm And Hashtable Implementation"],
+    "Out" : ["03/04/22"],
+    "In" : ["03/10/22"]
+   },
+   {
+    "Assignment" : ["Homework 4"],
+    "Out" : ["04/01/22"],
+    "In" : ["04/08/22"]
+   },
+   {
+    "Assignment" : ["Homework 5"],
+    "Out" : ["04/08/22"],
+    "In" : ["04/14/22"]
    }
    ]
 ---
