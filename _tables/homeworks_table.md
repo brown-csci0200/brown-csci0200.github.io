@@ -27,7 +27,7 @@ contents: [
     "In" : ["02/17/22"]
    },
    {
-    "Assignment" : ["Midterm And Hashtable Implementation"],
+    "Assignment" : ["Homework 3"],
     "Out" : ["03/04/22"],
     "In" : ["03/10/22"]
    },
