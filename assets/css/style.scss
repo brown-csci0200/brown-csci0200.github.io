@@ -294,6 +294,7 @@ header {
 
 /* LINKS */
 .links-subcontainer > p {
+  display: block;
   margin: 5px 20px 5px 5px;
   width: 30%;
   @media only screen and (max-width: 600px) {
@@ -309,9 +310,9 @@ header {
   flex-wrap: wrap;
   margin-top: -10px;
   min-height: 50px;
-  max-height: 150px;
+  max-height: 110px;
   @media only screen and (max-width: 600px) {
-    height: 100%;
+    max-height: none;
   }
 }
 
