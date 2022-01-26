@@ -6,4 +6,5 @@ email: william_yang@brown.edu
 bio: Hi there and welcome to cs0200! I love teaching, running, and playing board games (chess, go, and catan!). Most of the time, I'm either eating or thinking about food!
 hometown: Parsippany, New Jersey USA
 photo: will.jpg
+throwback_photo: will-throwback.jpg
 ---

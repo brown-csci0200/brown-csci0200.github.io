@@ -1,9 +1,16 @@
 <div class="staff">
   <div class="staff-wrapper">
     <div class="staff-photo">
-      {% if page.photo %}
-      <img class="staff-image" src="/assets/images/staff/{{page.photo}}" alt="{{page.name}} photo">
-      {% endif %}
+      <div class="staff-img">
+        {% if page.photo %}
+        <img class="staff-image" src="/assets/images/staff/{{page.photo}}" alt="{{page.name}} photo">
+        {% endif %}
+      </div>
+      <div class="throwback-img">
+        {% if page.throwback_photo %}
+        <img class="staff-image" src="/assets/images/staff/{{page.throwback_photo}}" alt="{{page.name}} photo">
+        {% endif %}
+      </div>
     </div>
     <div class="staff-info">
       <h3 class="staff-name">
