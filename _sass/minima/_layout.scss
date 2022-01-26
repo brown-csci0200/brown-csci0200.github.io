@@ -31,11 +31,16 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
   display: flex;
   flex-direction: column;
+  z-index: 20;
+
+  @media only screen and (max-width: 600px) {
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
 
   .nav-trigger {
     display: none;
@@ -124,7 +129,7 @@
 .site-footer {
   width: 100%;
   bottom: 0px;
-  position: fixed;
+  // position: fixed;
 }
 
 .feed-subscribe .svg-icon {
@@ -192,15 +197,15 @@
 }
 
 
-
 /**
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 0 0;
   flex: 1 0 auto;
   background: linear-gradient(to bottom left, #e9e9e6,  #bccfd4, #8ab8c3, #5788a8);
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: monospace;
+  min-height: 800px;
 }
 
 .page-heading {

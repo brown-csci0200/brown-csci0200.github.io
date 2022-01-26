@@ -1,10 +1,11 @@
 ---
 title: "Calendars"
+windowTitle: Calendars
 layout: default
 icon: hours_icon.png
+link_types: []
+links: []
 ---
-
-# {{ page.title }}
 
 ## TA hours
 

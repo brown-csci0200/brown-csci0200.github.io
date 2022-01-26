@@ -1,10 +1,13 @@
 ---
 title: "Assignments"
+windowTitle: Assignments
 layout: default
 icon: assignments_icon.png
+link_types: []
+links: []
 ---
 
-# {{ page.title }}
+<!-- # {{ page.title }} -->
 
 **See also the Assignments [calendar]({{ "/calendars#Assignments" | relative_url }}).**
 
@@ -15,4 +18,3 @@ icon: assignments_icon.png
 ## Projects ##
 
 {% include table_helper.html name="projects_table" %}
-
