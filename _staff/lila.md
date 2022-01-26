@@ -1,5 +1,5 @@
 ---
-name: Lila
+name: Lila Zimbalist
 pronouns: She/Her
 role: HTA 
 email: udayveer_sodhi@brown.edu
