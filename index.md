@@ -49,4 +49,4 @@ We are still putting the final touches on the website, which will go live before
 
 The **first class meeting** will be held in Salomon 101/DECI auditorium. It will also be livestreamed via Panopto, for those who prefer to maintain more social distance from other students. The livestream link will appear automatically right at 11am from within the [Canvas Media Library (lecture capture folder)](https://brown.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=3a2d0c7c-0522-448b-9ecb-ae25017f7e19). Refresh the page to see the link if it isn't up when you first get to the page. You may need to have the course in your cart to access the livestream. **Note that we are NOT using the zoom link in Canvas for the livestream on Wednesday. The zoom link is for something else (starting on Friday).** We will be taking questions in real time during class via [Ed Discussions](https://edstem.org/us/courses/16807/discussion/). If you have the course in your cart, you should have access.
 
-Other details will appear here by the first day of class. See you soon!
+
