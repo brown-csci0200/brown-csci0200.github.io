@@ -11,21 +11,22 @@ links: []
 
 ## Professors
 <div class="uta-container">
-{% assign professors = site.staff | where: 'role', 'Professor' %}
-{% for staffer in professors %}
-{{ staffer }}
-{% endfor %}
+  {% assign professors = site.staff | where: 'role', 'Professor' %}
+  {% for staffer in professors %}
+  {{ staffer }}
+  {% endfor %}
 </div>
 
 {% assign HTAs = site.staff | where: 'role', 'HTA' %}
 {% if HTAs.size != 0 %}
+
 ## HTAs
 
 <div class="uta-container">
-{% for staffer in HTAs %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+  {% for staffer in HTAs %}
+  {{ staffer }}
+  {% endfor %}
+  {% endif %}
 </div>
 
 {% assign STAs = site.staff | where: 'role', 'STA' %}
@@ -33,10 +34,10 @@ links: []
 ## STAs
 
 <div class="uta-container">
-{% for staffer in STAs %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+  {% for staffer in STAs %}
+  {{ staffer }}
+  {% endfor %}
+  {% endif %}
 </div>
 
 {% assign UTAs = site.staff | where: 'role', 'UTA' %}
