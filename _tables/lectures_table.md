@@ -28,5 +28,6 @@ contents: [
   "Files": [{"DCIC on testing (17.1)" : "https://dcic-world.org/2022-01-25/testing.html#%28part._from-examples-to-tests%29"},
             {"DCIC on datatypes (chap. 11)": "https://dcic-world.org/2022-01-25/intro-struct-data.html"},
             {"DCIC on Lists (9.3-9.5)" : "https://dcic-world.org/2022-01-25/tables-to-lists.html#%28part._.Understanding_.Lists%29"}]
+ }
 ]
 ---
