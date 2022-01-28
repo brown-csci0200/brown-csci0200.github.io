@@ -18,6 +18,6 @@ contents: [
 	"Handouts":
 	[<a href="https://docs.google.com/document/d/1S3JTKrTVr3PS8gu_9y6lPPHmmKdJXMsv042Pc1FXgv4/edit?usp=sharing">code handout</a>,<a href="https://classroom.github.com/a/61gWpbdw">starter github link</a>],
     "Files": []
-	},	
+	}	
 ]
 ---
