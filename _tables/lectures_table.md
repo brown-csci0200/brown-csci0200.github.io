@@ -4,11 +4,11 @@ contents: [
  {
     "Date": ["01/28/22"],
     "Topic": ["From FP: Classes and Methods"],
-    "Video": [],
+    "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73ce5197-39ba-49d4-a725-ae2b011db333"}],
 	"Handouts":
 	[{"code handout" : "https://docs.google.com/document/d/1S3JTKrTVr3PS8gu_9y6lPPHmmKdJXMsv042Pc1FXgv4/edit?usp=sharing"},
 	{"starter github link" : "https://classroom.github.com/a/61gWpbdw"}],
-    "Files": []
+    "Files": [{"notes": "assets/lectures/02fp/notes.pdf"}]
 	},
 {
   "Date": ["01/28/22"],
