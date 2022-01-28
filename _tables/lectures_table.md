@@ -10,7 +10,7 @@ contents: [
 	<a href="http://raysolomonoff.com/dartmouth/boxa/dart564props.pdf">Dartmouth AI Workshop Proposal</a>,
 	<a href="http://cs-exhibitions.uni-klu.ac.at/fileadmin/template/documents/text/The_development_of_the_simula_languages.pdf">Development of the SIMULA Languages</a>,
 	<a href="http://www.paulgraham.com/avg.html">Graham-Beating the Averages</a>]
-	},
+	}, 
  {
     "Date": ["01/28/22"],
     "Topic": ["From FP: Classes and Methods"],
