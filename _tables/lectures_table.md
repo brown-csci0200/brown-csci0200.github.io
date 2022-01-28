@@ -19,6 +19,14 @@ contents: [
 	[{"code handout" : "https://docs.google.com/document/d/1S3JTKrTVr3PS8gu_9y6lPPHmmKdJXMsv042Pc1FXgv4/edit?usp=sharing"},
 	{"starter github link" : "https://classroom.github.com/a/61gWpbdw"}],
     "Files": []
-	}	
+	}
+{
+  "Date": ["01/28/22"],
+  "Topic": ["From OO: Datatypes, Lists, Map/Filter, and Testing"],
+  "Video": [],
+  "Handouts": [{"worksheet/starter code" : "https://docs.google.com/document/d/1dz1VCdjRPGhTHMumaL7Nx83uk_tNNQfogabu2nw5Cg4/edit?usp=sharing"}, {"code.pyret.org" : "https://code.pyret.org"}],
+  "Files": [{"DCIC on testing (17.1)" : "https://dcic-world.org/2022-01-25/testing.html#%28part._from-examples-to-tests%29"},
+            {"DCIC on datatypes (chap. 11)": "https://dcic-world.org/2022-01-25/intro-struct-data.html"},
+            {"DCIC on Lists (9.3-9.5)" : "https://dcic-world.org/2022-01-25/tables-to-lists.html#%28part._.Understanding_.Lists%29"}]
 ]
 ---
