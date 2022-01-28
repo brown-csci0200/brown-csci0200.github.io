@@ -19,7 +19,7 @@ contents: [
 	[{"code handout" : "https://docs.google.com/document/d/1S3JTKrTVr3PS8gu_9y6lPPHmmKdJXMsv042Pc1FXgv4/edit?usp=sharing"},
 	{"starter github link" : "https://classroom.github.com/a/61gWpbdw"}],
     "Files": []
-	}
+	},
 {
   "Date": ["01/28/22"],
   "Topic": ["From OO: Datatypes, Lists, Map/Filter, and Testing"],
