@@ -7,17 +7,18 @@ contents: [
     "In" : ["01/28/22"]
    },
    {
-    "Assignment" : ["Homework 1A (15 students)", "Homework 1A (17/19/111 students)"],
+   "Assignment" : [{"Homework 1A (15 students)" : "https://hackmd.io/@csci0200/SJS72KCju"},
+                            {"Homework 1A (111/112/17/19 students)" : "https://hackmd.io/@csci0200/B1fdCtcpu"}],
     "Out" : ["01/28/22"],
     "In" : ["02/01/22"]
    },
    {
-    "Assignment" : ["Homework 1B (15 students)", "Homework 1B (17/19/111 students)"],
+    "Assignment" : ["Homework 1B (15 students)", "Homework 1B (111/112/17/19 students)"],
     "Out" : ["02/02/22"],
     "In" : ["02/06/22"]
    },
    {
-    "Assignment" : ["Homework 1C (15 students)", "Homework 1C (17/19/111 students)"],
+    "Assignment" : ["Homework 1C (15 students)", "Homework 1C (111/112/17/19 students)"],
     "Out" : ["02/04/22"],
     "In" : ["02/10/22"]
    },
