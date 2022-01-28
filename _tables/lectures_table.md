@@ -13,7 +13,7 @@ contents: [
 {
   "Date": ["01/28/22"],
   "Topic": ["From OO: Datatypes, Lists, Map/Filter, and Testing"],
-  "Video": [],
+  "Video": [{"video" : "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07099e56-79b6-4194-8fbb-ae25017ff01d"}],
   "Handouts": [{"code handout" : "https://docs.google.com/document/d/1dz1VCdjRPGhTHMumaL7Nx83uk_tNNQfogabu2nw5Cg4/edit?usp=sharing"}, {"code.pyret.org" : "https://code.pyret.org"}],
   "Files": [{"DCIC on testing (17.1)" : "https://dcic-world.org/2022-01-25/testing.html#%28part._from-examples-to-tests%29"},
             {"DCIC on datatypes (chap. 11)": "https://dcic-world.org/2022-01-25/intro-struct-data.html"},
