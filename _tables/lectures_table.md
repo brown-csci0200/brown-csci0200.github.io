@@ -18,6 +18,13 @@ contents: [
     "Files": [{"notes": "assets/lectures/02fp/notes.pdf"}]
 	},
 {
+  "Date": ["01/31/22"],
+  "Topic": ["Recursion"],
+  "Video": [],
+  "Handouts": [{"code handout" : "https://docs.google.com/document/d/1Iu3sgPWrna4IzTSMGOZgceQhnIvXRq00GgFuPynJ1O8/edit?usp=sharing"}],
+  "Files": [{"DCIC chap. 10" : "https://dcic-world.org/2022-01-25/processing-lists.html"}]
+  },
+{
   "Date": ["01/28/22"],
   "Topic": ["From OO: Datatypes, Lists, Map/Filter, and Testing"],
   "Video": [{"video" : "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07099e56-79b6-4194-8fbb-ae25017ff01d"}],
