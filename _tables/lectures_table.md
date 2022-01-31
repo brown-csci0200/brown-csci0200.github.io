@@ -2,6 +2,13 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
  {
+    "Date": ["01/31/22"],
+    "Topic": ["From FP: Memory and Interfaces"],
+    "Video": [],
+	"Handouts":	[{"handouts" : "assets/lectures/03fp/handouts.pptx"}],
+    "Files": []
+	},
+ {
     "Date": ["01/28/22"],
     "Topic": ["From FP: Classes and Methods"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73ce5197-39ba-49d4-a725-ae2b011db333"}],
