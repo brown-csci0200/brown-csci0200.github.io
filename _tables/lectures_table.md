@@ -6,7 +6,7 @@ contents: [
     "Topic": ["From FP: Memory and Interfaces"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e2df1efe-5094-459b-9829-ae25017ff034"}],
 	"Handouts":	[{"handouts" : "assets/lectures/03fp/handouts.pptx"}],
-    "Files": [{"notes": "assets/lectures/32fp/notes.pdf"}, {"memory-example.pdf": "assets/lectures/03fp/notional-machine-method-call.pdf"}]
+    "Files": [{"notes": "assets/lectures/03fp/notes.pdf"}, {"memory-example.pdf": "assets/lectures/03fp/notional-machine-method-call.pdf"}]
 	},
 {
   "Date": ["01/31/22"],
