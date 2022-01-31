@@ -8,6 +8,13 @@ contents: [
 	"Handouts":	[{"handouts" : "assets/lectures/03fp/handouts.pptx"}],
     "Files": []
 	},
+{
+  "Date": ["01/31/22"],
+  "Topic": ["From OO: Recursion"],
+  "Video": [],
+  "Handouts": [{"code handout" : "https://docs.google.com/document/d/1Iu3sgPWrna4IzTSMGOZgceQhnIvXRq00GgFuPynJ1O8/edit?usp=sharing"}],
+  "Files": [{"DCIC chap. 10" : "https://dcic-world.org/2022-01-25/processing-lists.html"}]
+  },
  {
     "Date": ["01/28/22"],
     "Topic": ["From FP: Classes and Methods"],
@@ -17,13 +24,6 @@ contents: [
 	{"starter github link" : "https://classroom.github.com/a/61gWpbdw"}],
     "Files": [{"notes": "assets/lectures/02fp/notes.pdf"}]
 	},
-{
-  "Date": ["01/31/22"],
-  "Topic": ["Recursion"],
-  "Video": [],
-  "Handouts": [{"code handout" : "https://docs.google.com/document/d/1Iu3sgPWrna4IzTSMGOZgceQhnIvXRq00GgFuPynJ1O8/edit?usp=sharing"}],
-  "Files": [{"DCIC chap. 10" : "https://dcic-world.org/2022-01-25/processing-lists.html"}]
-  },
 {
   "Date": ["01/28/22"],
   "Topic": ["From OO: Datatypes, Lists, Map/Filter, and Testing"],
