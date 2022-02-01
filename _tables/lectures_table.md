@@ -11,7 +11,7 @@ contents: [
 {
   "Date": ["01/31/22"],
   "Topic": ["From OO: Recursion"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a056b0c2-a2f6-42c4-a2d7-ae2e01482333"}],
   "Handouts": [{"code handout" : "https://docs.google.com/document/d/1Iu3sgPWrna4IzTSMGOZgceQhnIvXRq00GgFuPynJ1O8/edit?usp=sharing"}],
   "Files": [{"DCIC chap. 10" : "https://dcic-world.org/2022-01-25/processing-lists.html"}, {"Recursion annotation for \"double\" function (done in class)" : "assets/lectures/03oo/recursion_annotation_for_double.arr" }]
   },
