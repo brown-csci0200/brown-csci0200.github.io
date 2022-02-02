@@ -31,9 +31,14 @@ links: [
     "Type" : "QuickLinks"
   },
   {
-    "Title" : "Lab Switch Form",
-    "Link" : "https://docs.google.com/forms/d/1ZdogESmCTK43wT_0e3MuEeMeZYWIjcXB-SJuWurWgxo/edit",
+    "Title" : "Permanent Lab Switch Form",
+    "Link" : "https://forms.gle/9mvzrtfzwU8RA34T9",
     "Type" : "QuickLinks"
+  },
+  {
+  "Title" : "Temporary Lab Switch Form",
+  "Link" : "https://forms.gle/iMvy1p9doWCPWDku7",
+  "Type" : "QuickLinks"
   },
   {
     "Title" : "Extension Request Form",
