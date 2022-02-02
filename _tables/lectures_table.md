@@ -3,11 +3,18 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
  {
     "Date": ["02/2/22"],
-    "Topic": ["From FP: Inheritence"],
+    "Topic": ["From FP: Inheritance"],
     "Video": [],
 	"Handouts":	[{"code handout" : "https://docs.google.com/document/d/1lEtoyGnJTvbxbOgbW7OGsl3VR3SJEa-pFxzYgQYf4Ms"}],
     "Files": []
 	},
+ {
+    "Date": ["02/2/22"],
+    "Topic": ["From OO: Recursion examples"],
+    "Video": [],
+    "Handouts": [{"code handout": "https://docs.google.com/document/d/1yWvCnmjRMFpG3foxiBtgNcebeIE9M1tnC-0T5tuy2VU/edit?usp=sharing"}],
+    "Files": []
+    },
  {
     "Date": ["01/31/22"],
     "Topic": ["From FP: Memory and Interfaces"],
