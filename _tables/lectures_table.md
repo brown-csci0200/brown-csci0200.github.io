@@ -2,6 +2,13 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
  {
+    "Date": ["02/2/22"],
+    "Topic": ["From FP: Inheritence"],
+    "Video": [],
+	"Handouts":	[{"code handout" : "https://docs.google.com/document/d/1lEtoyGnJTvbxbOgbW7OGsl3VR3SJEa-pFxzYgQYf4Ms"}],
+    "Files": []
+	},
+ {
     "Date": ["01/31/22"],
     "Topic": ["From FP: Memory and Interfaces"],
     "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e2df1efe-5094-459b-9829-ae25017ff034"}],
