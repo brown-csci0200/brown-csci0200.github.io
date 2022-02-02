@@ -31,6 +31,11 @@ links: [
     "Type" : "QuickLinks"
   },
   {
+  "Title" : "Extension Request Form",
+  "Link" : "https://docs.google.com/forms/u/1/d/e/1FAIpQLSfFqvYPht8DpP7_SlnbdAXU5j67DRLhf_coOrmdQaehHkq4iw/viewform?usp=sf_link",
+  "Type" : "QuickLinks"
+  },
+  {
     "Title" : "Permanent Lab Switch Form",
     "Link" : "https://forms.gle/9mvzrtfzwU8RA34T9",
     "Type" : "QuickLinks"
@@ -39,11 +44,6 @@ links: [
   "Title" : "Temporary Lab Switch Form",
   "Link" : "https://forms.gle/iMvy1p9doWCPWDku7",
   "Type" : "QuickLinks"
-  },
-  {
-    "Title" : "Extension Request Form",
-    "Link" : "https://docs.google.com/forms/u/1/d/e/1FAIpQLSfFqvYPht8DpP7_SlnbdAXU5j67DRLhf_coOrmdQaehHkq4iw/viewform?usp=sf_link",
-    "Type" : "QuickLinks"
   }
 ]
 ---
