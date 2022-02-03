@@ -6,7 +6,7 @@ contents: [
     "Topic": ["From FP: Inheritance"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=effa25db-2ad6-4c99-ba87-ae30011d6552"}],
 	"Handouts":	[{"code handout" : "https://docs.google.com/document/d/1lEtoyGnJTvbxbOgbW7OGsl3VR3SJEa-pFxzYgQYf4Ms"}],
-    "Files": []
+    "Files": [{"notes": "assets/lectures/04fp/04notes.pdf"},{"inheritence diagrams":"https://docs.google.com/document/d/1Yg86xEu7WQPusArinwL-u9HtzSXFFMtTJ1FFhwfVHeE"}]
 	},
  {
     "Date": ["02/2/22"],
