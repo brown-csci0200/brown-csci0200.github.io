@@ -13,7 +13,7 @@ contents: [
     "Topic": ["From OO: Recursion examples"],
     "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c33524b-f742-46a6-ae3d-ae25017ff04a"}],
     "Handouts": [{"code handout": "https://docs.google.com/document/d/1yWvCnmjRMFpG3foxiBtgNcebeIE9M1tnC-0T5tuy2VU/edit?usp=sharing"}],
-    "Files": [{"Examples solution notes" : "assets/lectures/04oo/feb02_notes.pdf"}, {"Examples solution": "assets/lectures/04oo/feb2-example-sols.arr"}]
+    "Files": [{"Examples solution notes" : "assets/lectures/04oo/feb02_notes.pdf"}, {"Examples solution": "assets/lectures/04oo/feb2-example-sols.arr"}, {"Video walkthrough of HW1A problem": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25bd43db-6107-4d65-afba-ae3001811bb4"}]
     },
  {
     "Date": ["01/31/22"],
