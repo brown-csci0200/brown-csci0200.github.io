@@ -4,7 +4,7 @@ contents: [
 
 { "Date": ["02/4/22"],
 "Topic": ["From FP: Abstract classes and updates"],
-"Video": [],
+"Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc1e67ce-ad2d-4253-ab64-ae25017ff078"}],
 "Handouts":
 [{"handout": "https://docs.google.com/document/d/1Dt0m0j_hDlLRPfDy91P9BlxLBfloOCssCkvsXuqONCo"},
 {"starter code zip":"assets/lectures/05fp/lec05Animals.zip"}],
