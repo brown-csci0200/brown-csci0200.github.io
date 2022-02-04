@@ -3,7 +3,15 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
 { "Date": ["02/4/22"],
-"Topic": ["Sorting and runtime"],
+"Topic": ["From FP: Abstract classes and updates"],
+"Video": [],
+"Handouts":
+[{"handout": "https://docs.google.com/document/d/1Dt0m0j_hDlLRPfDy91P9BlxLBfloOCssCkvsXuqONCo"},
+{"starter code zip":"assets/lectures/05fp/lec05Animals.zip"}],
+"Files": []
+},
+{ "Date": ["02/4/22"],
+"Topic": ["From OO: Sorting and runtime"],
 "Video": [],
 "Handouts": [{"code handout": "https://docs.google.com/document/d/17GP9_l3L0089IheZFgCkZzlPNWqlsX28B7Ef6oRUxR8/edit?usp=sharing"}],
 "Files": []
