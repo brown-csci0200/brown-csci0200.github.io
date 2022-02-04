@@ -12,9 +12,9 @@ contents: [
 },
 { "Date": ["02/4/22"],
 "Topic": ["From OO: Sorting and runtime"],
-"Video": [],
+"Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebdb35ee-ed9f-4e6e-be17-ae3201241739"}],
 "Handouts": [{"code handout": "https://docs.google.com/document/d/17GP9_l3L0089IheZFgCkZzlPNWqlsX28B7Ef6oRUxR8/edit?usp=sharing"}],
-"Files": []
+"Files": [{"notes": "assets/lectures/05oo/feb04_notes.pdf"}]
 },
  {
     "Date": ["02/2/22"],
