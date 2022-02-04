@@ -1,6 +1,13 @@
 ---
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
+
+{ "Date": ["02/4/22"],
+"Topic": ["Sorting and runtime"],
+"Video": [],
+"Handouts": [{"code handout": "https://docs.google.com/document/d/17GP9_l3L0089IheZFgCkZzlPNWqlsX28B7Ef6oRUxR8/edit?usp=sharing"}],
+"Files": []
+},
  {
     "Date": ["02/2/22"],
     "Topic": ["From FP: Inheritance"],
