@@ -3,6 +3,12 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
 { "Date": ["02/7/22"],
+  "Topic": ["From FP: Java Lists and for loops"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16ceb156-d7e3-4d0a-b1d4-ae35011e23ed"}],
+  "Handouts": ["notes forthcoming"],
+  "Files": []
+  },
+  { "Date": ["02/7/22"],
   "Topic": ["From OO: Binary Trees and more runtime"],
   "Video": [],
   "Handouts": [{"code handout": "https://docs.google.com/document/d/1GOeoFpfOyphltnrjogDB-QBDYG-dZYmgAO6Ts52nnz0/edit?usp=sharing"}],
