@@ -2,6 +2,12 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
+{ "Date": ["02/7/22"],
+  "Topic": ["From OO: Binary Trees and more runtime"],
+  "Video": [],
+  "Handouts": [{"code handout": "https://docs.google.com/document/d/1GOeoFpfOyphltnrjogDB-QBDYG-dZYmgAO6Ts52nnz0/edit?usp=sharing"}],
+  "Files": []
+},
 { "Date": ["02/4/22"],
 "Topic": ["From FP: Abstract classes and updates"],
 "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc1e67ce-ad2d-4253-ab64-ae25017ff078"}],
