@@ -19,10 +19,11 @@ contents: [
     "In" : ["02/06/22"]
    },
    {
-    "Assignment" : ["Homework 1C (15 students)", "Homework 1C (111/112/17/19 students)"],
-    "Out" : ["02/04/22"],
-    "In" : ["02/10/22"]
-   },
+   "Assignment" : [{"Homework 1C (15 students)":"https://hackmd.io/@csci0200/Skr6imjTO"},
+                            {"Homework 1C (111/112/17/19 students)":"https://hackmd.io/@csci0200/H11bU_5Tu"}],
+    "Out" : ["02/07/22"],
+    "In" : ["02/11/22"]
+	},
    {
     "Assignment" : ["Homework 2"],
     "Out" : ["02/11/22"],
