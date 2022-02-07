@@ -16,7 +16,7 @@ contents: [
    "Assignment" : [{"Homework 1B (15 students)":"https://hackmd.io/@csci0200/HJ7f4h-kt"},
                             {"Homework 1B (111/112/17/19 students)": "https://hackmd.io/@csci0200/B1FAA_JkF" }],
     "Out" : ["02/02/22"],
-    "In" : ["02/06/22"]
+    "In" : ["02/07/22"]
    },
    {
    "Assignment" : [{"Homework 1C (15 students)":"https://hackmd.io/@csci0200/Skr6imjTO"},
