@@ -4,9 +4,11 @@ contents: [
 
 { "Date": ["02/7/22"],
   "Topic": ["From OO: Binary Trees and more runtime"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aef8b77f-0087-4bfb-afc1-ae25017ff090"}],
   "Handouts": [{"code handout": "https://docs.google.com/document/d/1GOeoFpfOyphltnrjogDB-QBDYG-dZYmgAO6Ts52nnz0/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"notes": "assets/lectures/06oo/feb07_notes.pdf"},
+            {"code": "assets/lectures/06oo/feb7-200.arr"},
+	    {"DCIC chap. 14": "https://dcic-world.org/2022-01-25/trees.html"}]
 },
 { "Date": ["02/4/22"],
 "Topic": ["From FP: Abstract classes and updates"],
