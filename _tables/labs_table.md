@@ -8,7 +8,8 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 2"],
+      "Lab" : [{"Lab 2 (15 students)": "https://hackmd.io/UOD5hwmBTzmH7kFPQraueg"},
+                  {"Lab 2 (17/111/112/19 students)": "https://hackmd.io/A3j3Nt6MRAarptXrD9NYdQ"}],
       "Out" : ["02/08/22"],
       "Additional Materials" : []
    }, 
