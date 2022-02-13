@@ -2,6 +2,13 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
+{ "Date": ["02/11/22"],
+  "Topic": ["Implementing mutable Lists"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2880e8a-ce0b-47a0-ace2-ae25017ff0c2"}],
+  "Handouts": [{"notes":"https://drive.google.com/file/d/10zKYuuyn5842eUSjFlANWpYneioe0r0t"},
+                      {"final code":"assets/lectures/08mutablelists/mutableLists.zip"}],
+  "Files": []
+  },
 { "Date": ["02/9/22"],
   "Topic": ["Implementing Immutable Lists"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25103fc2-4ce8-4e33-b46f-ae25017ff0a9"}],
