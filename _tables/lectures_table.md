@@ -4,16 +4,18 @@ contents: [
 
 { "Date": ["02/14/22"],
   "Topic": ["Lists and Memory Addresses"],
-  "Video": [],
-  "Handouts": [{"handout":"https://docs.google.com/document/d/1Vpy6X1PUNKZ6GjYtmaYPM4DOK4VEVZJ62ZGyJZ5FC7o"}],
-   "Files": []
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=886a56cc-403d-4755-9a1b-ae25017ff0df"}],
+  "Handouts":
+  [{"handout":"https://docs.google.com/document/d/1Vpy6X1PUNKZ6GjYtmaYPM4DOK4VEVZJ62ZGyJZ5FC7o"}],
+   "Files": [{"notes":"https://drive.google.com/file/d/1sgMItvvJP3hrVYVAJz7c31_TVtFNkDIG/view?usp=sharing"}]
   },
 { "Date": ["02/11/22"],
   "Topic": ["Implementing mutable Lists"],
-  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2880e8a-ce0b-47a0-ace2-ae25017ff0c2"}],
-  "Handouts": [{"notes":"https://drive.google.com/file/d/10zKYuuyn5842eUSjFlANWpYneioe0r0t"},
+  "Video":
+  [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2880e8a-ce0b-47a0-ace2-ae25017ff0c2"}],
+  "Handouts": [],
+  "Files": [{"notes":"https://drive.google.com/file/d/10zKYuuyn5842eUSjFlANWpYneioe0r0t"},
                       {"final code":"assets/lectures/08mutablelists/mutableLists.zip"}],
-  "Files": []
   },
 { "Date": ["02/9/22"],
   "Topic": ["Implementing Immutable Lists"],
