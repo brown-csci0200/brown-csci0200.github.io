@@ -14,7 +14,7 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 3"],
+      "Lab" : [{"Lab 3": "https://hackmd.io/@csci0200/Sy4UlA13_"}],
       "Out" : ["02/15/22"],
       "Additional Materials" : []
    }, 
