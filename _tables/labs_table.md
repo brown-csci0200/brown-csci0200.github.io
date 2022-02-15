@@ -14,7 +14,8 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : [{"Lab 3": "https://hackmd.io/@csci0200/Sy4UlA13_"}],
+      "Lab" : [{"Lab 3a (Basic)": "https://hackmd.io/@csci0200/Sy4UlA13_"},
+                  {"Lab 3b (Advanced)": "https://hackmd.io/@csci0200/H17-6_vnd"}],
       "Out" : ["02/15/22"],
       "Additional Materials" : []
    }, 
