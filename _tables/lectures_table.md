@@ -3,8 +3,8 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
 { "Date": ["02/16/22"],
-  "Topic": ["Arrays"],
-  "Video": [],
+  "Topic": ["Arrays and Array-Based Lists"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67c5ce4e-3201-4da8-bacd-ae3c00e18617"}],
   "Handouts":
   [{"handout":"https://docs.google.com/document/d/1ke2ok3RYv56DBoAGL1XvUQ-tAnE8Js7M2L1vySy7gYA"}],
    "Files": []
