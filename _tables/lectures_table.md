@@ -2,6 +2,13 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
+{ "Date": ["02/16/22"],
+  "Topic": ["Arrays"],
+  "Video": [],
+  "Handouts":
+  [{"handout":"https://docs.google.com/document/d/1ke2ok3RYv56DBoAGL1XvUQ-tAnE8Js7M2L1vySy7gYA"}],
+   "Files": []
+  },
 { "Date": ["02/14/22"],
   "Topic": ["Lists and Memory Addresses"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=886a56cc-403d-4755-9a1b-ae25017ff0df"}],
