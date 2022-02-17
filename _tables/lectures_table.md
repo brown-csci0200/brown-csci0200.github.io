@@ -9,7 +9,7 @@ contents: [
   [{"handout":"https://docs.google.com/document/d/1ke2ok3RYv56DBoAGL1XvUQ-tAnE8Js7M2L1vySy7gYA"}],
    "Files":
    [{"final code":"assets/lectures/10arraylists/arraylists.zip"},
-   "notes coming Thursday"]
+   {"notes":"assets/lectures/10arraylists/lec10-notes.pdf"}]
   },
 { "Date": ["02/14/22"],
   "Topic": ["Lists and Memory Addresses"],
@@ -35,7 +35,7 @@ contents: [
 { "Date": ["02/7/22"],
   "Topic": ["From FP: Java Lists and for loops"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=16ceb156-d7e3-4d0a-b1d4-ae35011e23ed"}],
-  "Handouts": ["notes forthcoming"],
+  "Handouts": [],
   "Files": []
   },
   { "Date": ["02/7/22"],
