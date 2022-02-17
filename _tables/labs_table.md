@@ -5,13 +5,13 @@ contents: [
       "Lab" : [{"Lab 1 (15 students)": "https://hackmd.io/FqFgd6ZjSFCqIsq_cj_PZg"},
                   {"Lab 1 (17/111/112/19 students)": "https://hackmd.io/YE6VxVslSJupUL1bKUsfNg?view"}],
       "Out" : ["02/01/22"],
-      "Additional Materials" : []
+      "Additional Materials" : [{"solution (15)": "assets/labs/lab1-sol.arr"}, {"solution (17)": "assets/labs/lab1-sol.zip"}]
    }, 
    {
       "Lab" : [{"Lab 2 (15 students)": "https://hackmd.io/UOD5hwmBTzmH7kFPQraueg"},
                   {"Lab 2 (17/111/112/19 students)": "https://hackmd.io/A3j3Nt6MRAarptXrD9NYdQ"}],
       "Out" : ["02/08/22"],
-      "Additional Materials" : []
+      "Additional Materials" : [{"solution (15)": "assets/labs/lab2-sol.arr"}, {"solution (17)": "assets/labs/lab2-sol.zip"}]
    }, 
    {
       "Lab" : [{"Lab 3a (Basic)": "https://hackmd.io/@csci0200/Sy4UlA13_"},
