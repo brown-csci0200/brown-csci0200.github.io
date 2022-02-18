@@ -2,6 +2,13 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 
+{ "Date": ["02/18/22"],
+  "Topic": ["ArrayLists, part 2"],
+  "Video": [],
+  "Handouts":
+  [{"handout":"https://docs.google.com/document/d/1FEIPDbg_hnt9CYlquNRBdhXkled8yLns4ive5pX_MGM"}, {"starter code":"assets/lectures/10arraylists/arraylists.zip"}],
+   "Files": []
+  },
 { "Date": ["02/16/22"],
   "Topic": ["Arrays and Array-Based Lists"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67c5ce4e-3201-4da8-bacd-ae3c00e18617"}],
