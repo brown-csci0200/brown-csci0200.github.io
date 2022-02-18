@@ -32,7 +32,7 @@ links: [
   },
   {
   "Title" : "Extension Request Form",
-  "Link" : "https://docs.google.com/forms/u/1/d/e/1FAIpQLSfFqvYPht8DpP7_SlnbdAXU5j67DRLhf_coOrmdQaehHkq4iw/viewform?usp=sf_link",
+  "Link" : "https://docs.google.com/forms/d/e/1FAIpQLSfFqvYPht8DpP7_SlnbdAXU5j67DRLhf_coOrmdQaehHkq4iw/viewform?usp=sf_link",
   "Type" : "QuickLinks"
   },
   {
