@@ -2,7 +2,7 @@
 cols: ["Project", "Out", "In", "Forms"]
 contents: [
    {
-      "Project":["Decision Tree"],
+      "Project":[{"Decision Tree":"https://hackmd.io/@csci0200/HkPjM0kn_"}],
       "Out" : ["02/18/22"],
       "In" : ["03/03/22"]
    },

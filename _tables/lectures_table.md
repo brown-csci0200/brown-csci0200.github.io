@@ -8,7 +8,7 @@ contents: [
   "Handouts":
   [{"handout":"https://docs.google.com/document/d/1FEIPDbg_hnt9CYlquNRBdhXkled8yLns4ive5pX_MGM"},
   {"starter code":"assets/lectures/10arraylists/arraylists.zip"}],
-   "Files": []
+   "Files": [{"whiteboard contents":"https://drive.google.com/file/d/1m8nUTjhSt4NI4fXD5S7ctfQsRIc7Nl_Q/view?usp=sharing"}]
   },
 { "Date": ["02/16/22"],
   "Topic": ["Arrays and Array-Based Lists"],
