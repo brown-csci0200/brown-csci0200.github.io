@@ -1,7 +1,12 @@
 ---
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
-
+{ "Date": ["02/23/22"],
+  "Topic": ["Debugging plans"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1lilLdcLw3NpFx2b18YMDPIObRXa0OUY2HTl4LBOhLBI/edit?usp=sharing"}],
+  "Files": []
+},
 { "Date": ["02/18/22"],
   "Topic": ["ArrayLists, part 2"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c093d337-0e1d-4f26-9396-ae3c00e18674"}],
