@@ -3,7 +3,7 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 { "Date": ["02/23/22"],
   "Topic": ["Debugging plans"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=157b3bf0-261e-46ff-82f3-ae3c00e186af"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1lilLdcLw3NpFx2b18YMDPIObRXa0OUY2HTl4LBOhLBI/edit?usp=sharing"}],
   "Files": []
 },
