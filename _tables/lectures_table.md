@@ -5,7 +5,9 @@ contents: [
   "Topic": ["Model-View-Controller and Exceptions"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d570923f-13bd-409c-9062-ae47011eaac5"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1KvTdFVfSu4Iz2LeuZ_ze6i_U0RMBUJiUza1xyTu3jUs/edit?usp=sharing"}],
-  "Files": [{"code": "assets/lectures/13mvc/lec13MVC.zip"}]
+  "Files": [{"code": "assets/lectures/13mvc/lec13MVC.zip"},
+	{"notes":"assets/lectures/13mvc/mvc-exn.pdf"},
+{"how exceptions work":"assets/lectures/13mvc/ExceptionControlFlow.pdf"}]
 },
 { "Date": ["02/23/22"],
   "Topic": ["Debugging plans"],
