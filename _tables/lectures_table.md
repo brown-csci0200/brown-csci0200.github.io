@@ -3,9 +3,9 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 { "Date": ["02/25/22"],
   "Topic": ["Model-View-Controller and Exceptions"],
-  "Video": ["processing; will be posted soon"],
+  "Video": ["{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d570923f-13bd-409c-9062-ae47011eaac5"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1KvTdFVfSu4Iz2LeuZ_ze6i_U0RMBUJiUza1xyTu3jUs/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"code": "assets/lectures/13mvc/lec13MVC.zip"}]
 },
 { "Date": ["02/23/22"],
   "Topic": ["Debugging plans"],
