@@ -3,7 +3,7 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 { "Date": ["02/25/22"],
   "Topic": ["Model-View-Controller and Exceptions"],
-  "Video": [{"Zoom link (will be replaced with recording after class)": "https://brown.zoom.us/j/97688056091"}],
+  "Video": ["processing; will be posted soon"],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1KvTdFVfSu4Iz2LeuZ_ze6i_U0RMBUJiUza1xyTu3jUs/edit?usp=sharing"}],
   "Files": []
 },
