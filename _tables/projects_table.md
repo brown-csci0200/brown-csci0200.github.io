@@ -1,11 +1,11 @@
 ---
-cols: ["Project", "Out", "In", "Tutorials"]
+cols: ["Project", "Out", "In", "Additional Resources"]
 contents: [
    {
       "Project":[{"Decision Tree":"https://hackmd.io/@csci0200/HkPjM0kn_"}],
       "Out" : ["02/18/22"],
       "In" : ["03/03/22"],
-      "Tutorials" : [{"Tree Visualizer Setup":"https://drive.google.com/file/d/1aGjUYjECvyReg-233MFDtFXgeRoiDFGN/view?usp=sharing"}]
+      "Additional Resources" : [{"Tree Visualizer Setup":"https://drive.google.com/file/d/1aGjUYjECvyReg-233MFDtFXgeRoiDFGN/view?usp=sharing"}]
    },
    {
       "Project":["Travel Planner"],
