@@ -3,7 +3,7 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 { "Date": ["02/28/22"],
   "Topic": ["How Exceptions Work; Hashmaps"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c61379b1-571a-474c-85ea-ae3c00e186e8"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1UMitgfO8Pmeng_h5kAhReXtUG9r3OJcdnoaAh-R3IuE"}],
   "Files": []
 },
