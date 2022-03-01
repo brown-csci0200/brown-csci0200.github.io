@@ -25,7 +25,7 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 5"],
+      "Lab" : [{"Lab 5: Java IO" : "https://hackmd.io/@csci0200/Byitnwoiu"]},
       "Out" : ["03/01/22"],
       "Additional Materials" : []
    }, 
