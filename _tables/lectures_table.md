@@ -3,7 +3,7 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 { "Date": ["03/02/22"],
   "Topic": ["How Hashmaps Work"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6db7f5a-e77b-4b7d-acf6-ae3c00e18717"}],
   "Handouts": [{"no handout or starter"}],
   "Files": []
 },
