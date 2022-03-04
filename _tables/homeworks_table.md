@@ -30,7 +30,7 @@ contents: [
     "In" : ["02/17/22"]
    },
    {
-    "Assignment" : ["Homework 3"],
+    "Assignment" : [{"Homework 3":"https://hackmd.io/@csci0200/ryoQh_D3O"}],
     "Out" : ["03/04/22"],
     "In" : ["03/10/22"]
    },
