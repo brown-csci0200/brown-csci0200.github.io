@@ -1,6 +1,14 @@
 ---
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
+
 contents: [
+{ "Date": ["03/04/22"],
+  "Topic": ["Finishing Hashmaps, back to MVC"],
+  "Video": [{"video": ""}],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1B1SIw4M5q39QrEC_nt_SRsHid4Htxx6boYgSC3rYsJs"},
+{"starter code":"assets/lectures/16bankingmvc/bankingmvc.zip"}],
+  "Files": []
+},
 { "Date": ["03/02/22"],
   "Topic": ["How Hashmaps Work"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6db7f5a-e77b-4b7d-acf6-ae3c00e18717"}],
