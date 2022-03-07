@@ -2,6 +2,12 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
+{ "Date": ["03/07/22"],
+  "Topic": ["Introduction to Graphs"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1lJG7JtHBbWOV28gK3ITEdsWWGIB1OQgunsApqliUizY/"}],
+  "Files": []
+},
 { "Date": ["03/04/22"],
   "Topic": ["Finishing Hashmaps, back to MVC"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1908974a-b1a0-4cae-b2ae-ae3c00e18732"}],
