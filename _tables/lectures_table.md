@@ -5,7 +5,9 @@ contents: [
 { "Date": ["03/07/22"],
   "Topic": ["Introduction to Graphs"],
   "Video": [],
-  "Handouts": [{"handout": "https://docs.google.com/document/d/1lJG7JtHBbWOV28gK3ITEdsWWGIB1OQgunsApqliUizY/"}],
+  "Handouts":
+  [{"handout": "https://docs.google.com/document/d/1lJG7JtHBbWOV28gK3ITEdsWWGIB1OQgunsApqliUizY/"},
+  {"MVC slides":"https://docs.google.com/presentation/d/1BT9dzpoo-Db5SNwKZ69jf5TOvwq15U1A65tTHkKmGRQ"}],
   "Files": []
 },
 { "Date": ["03/04/22"],
