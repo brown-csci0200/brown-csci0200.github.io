@@ -4,7 +4,7 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 contents: [
 { "Date": ["03/07/22"],
   "Topic": ["Introduction to Graphs"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3e3e348-90a1-4663-a745-ae3c00e1874e"}],
   "Handouts":
   [{"handout": "https://docs.google.com/document/d/1lJG7JtHBbWOV28gK3ITEdsWWGIB1OQgunsApqliUizY/"},
   {"MVC slides":"https://docs.google.com/presentation/d/1BT9dzpoo-Db5SNwKZ69jf5TOvwq15U1A65tTHkKmGRQ"}],
