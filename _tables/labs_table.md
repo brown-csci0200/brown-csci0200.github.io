@@ -30,7 +30,7 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 6"],
+      "Lab" : [{"Lab 6: Priority Queues and Comparators" : "https://hackmd.io/MTKTpCnhQrebbzKEvcSV9Q"}],
       "Out" : ["03/08/22"],
       "Additional Materials" : []
    }, 
