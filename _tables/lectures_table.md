@@ -11,7 +11,8 @@ contents: [
   "Files": []
 },
 { "Date": ["03/04/22"],
-  "Topic": ["Finishing Hashmaps, back to MVC"],
+"Topic": ["Finishing Hashmaps, back to MVC"],
+
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1908974a-b1a0-4cae-b2ae-ae3c00e18732"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1B1SIw4M5q39QrEC_nt_SRsHid4Htxx6boYgSC3rYsJs"},
 {"starter code":"assets/lectures/16bankingmvc/bankingmvc.zip"}],
@@ -21,7 +22,7 @@ contents: [
   "Topic": ["How Hashmaps Work"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6db7f5a-e77b-4b7d-acf6-ae3c00e18717"}],
   "Handouts": [{"no handout or starter"}],
-  "Files": []
+  "Files": [{"notes":"https://drive.google.com/file/d/1sTKIJCaPVGhtVpHSZrdBFUcOi7bBikZQ/view?usp=sharing"}]
 },
 { "Date": ["02/28/22"],
   "Topic": ["How Exceptions Work; Hashmaps"],
