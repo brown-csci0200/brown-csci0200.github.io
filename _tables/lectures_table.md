@@ -2,6 +2,15 @@
 cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
+{
+  "Date": ["03/09/22"],
+  "Topic": ["DFS and BFS"],
+  "Video": [],
+  "Handouts": [
+    {"handout": "https://docs.google.com/document/d/1-tbPmP-cgSAyteXZZtIZcbHR07C-g0_cBkraDU-OnNg/edit?usp=sharing"}
+    {"starter code": "assets/lectures/18dfsbfs/lec18DFSBFS.zip"}],
+  "Files": []
+},
 { "Date": ["03/07/22"],
   "Topic": ["Introduction to Graphs"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3e3e348-90a1-4663-a745-ae3c00e1874e"}],
