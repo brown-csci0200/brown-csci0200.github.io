@@ -17,8 +17,7 @@ contents: [
       "Lab" : [{"Lab 3a (Basic)": "https://hackmd.io/@csci0200/Sy4UlA13_"},
                   {"Lab 3b (Advanced)": "https://hackmd.io/@csci0200/H17-6_vnd"}],
       "Out" : ["02/15/22"],
-      "Additional Materials" : [{"Solution (3b - Basic)": "assets/labs/lab3a-sol.arr"}, 
-                                 {"Solution (3b - Advanced)": "assets/labs/lab3b-sol.zip"}]
+      "Additional Materials" : [{"Solution (3b - Basic)": "assets/labs/lab3a-sol.zip"},{"Solution (3b - Advanced)": "assets/labs/lab3b-sol.zip"}]
    }, 
    {
       "Lab" : ["Lab 4"],
@@ -28,7 +27,7 @@ contents: [
    {
       "Lab" : [{"Lab 5: Java IO" : "https://hackmd.io/@csci0200/Byitnwoiu"}],
       "Out" : ["03/01/22"],
-      "Additional Materials" : [{"Solution": "assets/labs/lab5-sol.arr"}]
+      "Additional Materials" : [{"Solution": "assets/labs/lab5-sol.zip"}]
    }, 
    {
       "Lab" : [{"Lab 6: Priority Queues and Comparators" : "https://hackmd.io/MTKTpCnhQrebbzKEvcSV9Q"}],
