@@ -18,7 +18,7 @@ contents: [
                   {"Lab 3b (Advanced)": "https://hackmd.io/@csci0200/H17-6_vnd"}],
       "Out" : ["02/15/22"],
       "Additional Materials" : [{"Solution (3b - Basic)": "assets/labs/lab3a-sol.arr"}, 
-                                 {"3b Solution (3b - Advanced)": "assets/labs/lab3b-sol.zip"}]
+                                 {"Solution (3b - Advanced)": "assets/labs/lab3b-sol.zip"}]
    }, 
    {
       "Lab" : ["Lab 4"],
