@@ -5,7 +5,7 @@ contents: [
 {
   "Date": ["03/09/22"],
   "Topic": ["DFS and BFS"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68791bb0-3660-49fa-90a1-ae3c00e1876b"}],
   "Handouts": [
     {"handout": "https://docs.google.com/document/d/1-tbPmP-cgSAyteXZZtIZcbHR07C-g0_cBkraDU-OnNg/edit?usp=sharing"},
     {"starter code": "assets/lectures/18dfsbfs/lec18DFSBFS.zip"}],
