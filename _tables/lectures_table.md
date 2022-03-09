@@ -7,7 +7,7 @@ contents: [
   "Topic": ["DFS and BFS"],
   "Video": [],
   "Handouts": [
-    {"handout": "https://docs.google.com/document/d/1-tbPmP-cgSAyteXZZtIZcbHR07C-g0_cBkraDU-OnNg/edit?usp=sharing"}
+    {"handout": "https://docs.google.com/document/d/1-tbPmP-cgSAyteXZZtIZcbHR07C-g0_cBkraDU-OnNg/edit?usp=sharing"},
     {"starter code": "assets/lectures/18dfsbfs/lec18DFSBFS.zip"}],
   "Files": []
 },
