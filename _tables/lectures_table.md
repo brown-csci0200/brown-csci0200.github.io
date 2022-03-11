@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/11/22"],
+  "Topic": ["Dijkstra's Algorithm"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1z2nhgE8nCDowQb8e6d-x39POF18LU9pVQ70e85PdGAU/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["03/09/22"],
   "Topic": ["DFS and BFS"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68791bb0-3660-49fa-90a1-ae3c00e1876b"}],
