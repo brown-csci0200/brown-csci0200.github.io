@@ -7,7 +7,7 @@ contents: [
   "Topic": ["Dijkstra's Algorithm"],
   "Video": [],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1z2nhgE8nCDowQb8e6d-x39POF18LU9pVQ70e85PdGAU/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"notes": "assets/lectures/19dijkstra/dijkstra-notes.pdf"}]
 },
 {
   "Date": ["03/09/22"],
