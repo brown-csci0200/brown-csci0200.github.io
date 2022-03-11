@@ -5,7 +5,7 @@ contents: [
 {
   "Date": ["03/11/22"],
   "Topic": ["Dijkstra's Algorithm"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=665f5507-7770-45a7-8cd7-ae3c00e18788"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1z2nhgE8nCDowQb8e6d-x39POF18LU9pVQ70e85PdGAU/edit?usp=sharing"}],
   "Files": [{"notes": "assets/lectures/19dijkstra/dijkstra-notes.pdf"}]
 },
