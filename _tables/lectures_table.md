@@ -9,7 +9,7 @@ contents: [
   "Handouts": [
     {"handout": "https://docs.google.com/document/d/1-tbPmP-cgSAyteXZZtIZcbHR07C-g0_cBkraDU-OnNg/edit?usp=sharing"},
     {"starter code": "assets/lectures/18dfsbfs/lec18DFSBFS.zip"}],
-  "Files": []
+  "Files": [{"notes": "assets/lectures/18dfsbfs/dfsbfs-notes.pdf"}]
 },
 { "Date": ["03/07/22"],
   "Topic": ["Introduction to Graphs"],
@@ -17,7 +17,7 @@ contents: [
   "Handouts":
   [{"handout": "https://docs.google.com/document/d/1lJG7JtHBbWOV28gK3ITEdsWWGIB1OQgunsApqliUizY/"},
   {"MVC slides":"https://docs.google.com/presentation/d/1BT9dzpoo-Db5SNwKZ69jf5TOvwq15U1A65tTHkKmGRQ"}],
-  "Files": []
+  "Files": [{"notes": "assets/lectures/17graphs/graphs-notes.pdf"}]
 },
 { "Date": ["03/04/22"],
 "Topic": ["Finishing Hashmaps, back to MVC"],
