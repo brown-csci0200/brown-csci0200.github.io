@@ -8,9 +8,10 @@ contents: [
       "Additional Resources" : [{"Tree Visualizer Setup":"https://drive.google.com/file/d/1aGjUYjECvyReg-233MFDtFXgeRoiDFGN/view?usp=sharing"}]
    },
    {
-      "Project":["Travel Planner"],
+      "Project":[{"Travel Planner" : "https://hackmd.io/FDY8JfHVRRWrg2st8T4lHg"}],
       "Out" : ["03/11/22"],
-      "In" : ["03/24/22"]
+      "In" : ["03/24/22"],
+      "Additional Resources" : ["Refer to written lecture notes from 3/7 and onward"]
    },
    {
       "Project":["Search"],
