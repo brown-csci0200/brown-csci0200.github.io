@@ -5,9 +5,9 @@ contents: [
 {
   "Date": ["03/14/22"],
   "Topic": ["Minimum Spanning Trees"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=331bfa4a-785b-4d5f-8b5a-ae3c00e187b0"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1YR4EnxD369xClUlXXx3eFrk5PEk3PacWn5fjNmRiOzs/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"notes": "assets/lectures/20mst/min-span-tree-notes.pdf"}]
 },
 {
   "Date": ["03/11/22"],
