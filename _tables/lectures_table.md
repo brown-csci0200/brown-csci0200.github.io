@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/14/22"],
+  "Topic": ["Minimum Spanning Trees"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1YR4EnxD369xClUlXXx3eFrk5PEk3PacWn5fjNmRiOzs/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["03/11/22"],
   "Topic": ["Dijkstra's Algorithm"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=665f5507-7770-45a7-8cd7-ae3c00e18788"}],
