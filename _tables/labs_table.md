@@ -32,7 +32,7 @@ contents: [
    {
       "Lab" : [{"Lab 6: Priority Queues and Comparators" : "https://hackmd.io/MTKTpCnhQrebbzKEvcSV9Q"}],
       "Out" : ["03/08/22"],
-      "Additional Materials" : [{"Solution": "assets/labs/lab5-sol.zip"}]
+      "Additional Materials" : [{"Solution": "assets/labs/lab6-sol.zip"}]
    }, 
    {
       "Lab" : ["Lab 7"],
