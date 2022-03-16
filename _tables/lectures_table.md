@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/16/22"],
+  "Topic": ["Disjoint Sets and Union/Find"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1gt2UV54NL-uPtIYVNlRUHVrULKl9lISsLEaLkWtpJXA/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["03/14/22"],
   "Topic": ["Minimum Spanning Trees"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=331bfa4a-785b-4d5f-8b5a-ae3c00e187b0"}],
