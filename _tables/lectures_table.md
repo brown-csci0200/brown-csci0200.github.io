@@ -7,7 +7,7 @@ contents: [
   "Topic": ["Disjoint Sets and Union/Find"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35dabac9-4d1b-42cd-8370-ae3c00e187cd"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1gt2UV54NL-uPtIYVNlRUHVrULKl9lISsLEaLkWtpJXA/edit?usp=sharing"}],
-  "Files": [{"notes": "assets/lectures/21unionfind/union-find]
+  "Files": [{"notes": "assets/lectures/21unionfind/union-find"}]
 },
 {
   "Date": ["03/14/22"],
