@@ -11,7 +11,7 @@ contents: [
       "Project":[{"Travel Planner" : "https://hackmd.io/FDY8JfHVRRWrg2st8T4lHg"}],
       "Out" : ["03/11/22"],
       "In" : ["03/24/22"],
-      "Additional Resources" : ["Refer to written lecture notes from 3/7 and onward"]
+      "Additional Resources" : [{"Gear Up Slides": "https://docs.google.com/presentation/d/1iirPmjT5B1PYob8AIpdvkeUUi_hW7TCmbSh5kefIBbk/edit?usp=sharing"}, {"Gear Up Video": "https://brown.zoom.us/rec/share/PlEN9depIX56x_2ySwJgLuttsq91ilnCumcJZXqPek0LPL5Z96AblaDpdVKB4gCc.Qf-xbKm990PDT2tc?startTime=1647197533000"}, "Refer to written lecture notes from 3/7 and onward"]
    },
    {
       "Project":["Search"],
