@@ -5,9 +5,9 @@ contents: [
 {
   "Date": ["03/18/22"],
   "Topic": ["Garbage Collection"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73883bfb-cc32-4970-9e11-ae3c00e187ea"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/12QXy8thCHUSuhEG8nCmOx54bP67dRcAv8fqrsG3v0j4"}],
-  "Files": []
+  "Files": [{"notes":"https://drive.google.com/file/d/19t_zR4v9bI4iGeM9XDoBB5pImaLVFeLc/view?usp=sharing"}]
 },
 {
   "Date": ["03/16/22"],
