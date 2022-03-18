@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/18/22"],
+  "Topic": ["Garbage Collection"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/12QXy8thCHUSuhEG8nCmOx54bP67dRcAv8fqrsG3v0j4"}],
+  "Files": []
+},
+{
   "Date": ["03/16/22"],
   "Topic": ["Disjoint Sets and Union/Find"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35dabac9-4d1b-42cd-8370-ae3c00e187cd"}],
