@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/21/22"],
+  "Topic": ["Recap and Threat Modeling"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/presentation/d/1n7mbmNxgE8HqUpsutxNibDa08ou1z35_ZX_aM4WgmqM/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["03/18/22"],
   "Topic": ["Garbage Collection"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73883bfb-cc32-4970-9e11-ae3c00e187ea"}],
