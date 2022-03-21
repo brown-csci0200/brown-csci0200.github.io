@@ -5,9 +5,11 @@ contents: [
 {
   "Date": ["03/21/22"],
   "Topic": ["Recap and Threat Modeling"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35aac5bc-e3b1-4af2-b231-ae3c00e1880a"}],
   "Handouts": [{"handout": "https://docs.google.com/presentation/d/1n7mbmNxgE8HqUpsutxNibDa08ou1z35_ZX_aM4WgmqM/edit?usp=sharing"}],
-  "Files": []
+  "Files":
+  [{"notes":"https://responsibleproblemsolving.github.io/threatmodeling/intro-lecturenotes.pdf"},
+  {"danah boyd's Fragmentation of Truth":"https://points.datasociety.net/the-fragmentation-of-truth-3c766ebb74cf"}]
 },
 {
   "Date": ["03/18/22"],
