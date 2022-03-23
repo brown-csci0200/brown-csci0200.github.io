@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/23/22"],
+  "Topic": ["Switching to Python (pt. 1)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1PO81f2lPZ40FndinqP4kaYSxroLh_lw9uTVyMowJBXY/edit?usp=sharing"}],
+  "Files": [{"Java to Python guide": "https://hackmd.io/UDZsVd4iRYyBz_i74QqVyA"}]
+},
+{
   "Date": ["03/21/22"],
   "Topic": ["Recap and Threat Modeling"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35aac5bc-e3b1-4af2-b231-ae3c00e1880a"}],
