@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["03/25/22"],
+  "Topic": ["Switching to Python (pt. 2)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1N4d2UVqFNEhaQyMd0ZJQ0mvLkvCrvQWaOk_so3NxoZE/edit?usp=sharing"}],
+  "Files": ["Keep referring to the Java to Python guide"]
+},
+{
   "Date": ["03/23/22"],
   "Topic": ["Switching to Python (pt. 1)"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724d1a60-c2b8-400e-b940-ae3c00e18828"}],
