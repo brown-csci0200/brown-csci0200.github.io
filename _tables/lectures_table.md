@@ -5,7 +5,7 @@ contents: [
 {
   "Date": ["03/25/22"],
   "Topic": ["Switching to Python (pt. 2)"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e2451a5-9b9d-4092-a05e-ae3c00e18846"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1N4d2UVqFNEhaQyMd0ZJQ0mvLkvCrvQWaOk_so3NxoZE/edit?usp=sharing"}],
   "Files": ["Keep referring to the Java to Python guide"]
 },
