@@ -5,9 +5,9 @@ contents: [
 {
   "Date": ["04/04/22"],
   "Topic": ["Dynamic Programming (pt. 1)"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e30cb6c1-4e62-49d9-a5ed-ae3c00e188cb"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1w8vrbhxevpMWtt7z52j0xGFa2D3lCNlXUi-7WRe2Wy4/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"notes": "assets/lectures/26dynprog1/dp1-notes.pdf"}]
 },
 {
   "Date": ["03/25/22"],
