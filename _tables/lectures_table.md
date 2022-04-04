@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/04/22"],
+  "Topic": ["Dynamic Programming (pt. 1)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1w8vrbhxevpMWtt7z52j0xGFa2D3lCNlXUi-7WRe2Wy4/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["03/25/22"],
   "Topic": ["Switching to Python (pt. 2)"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e2451a5-9b9d-4092-a05e-ae3c00e18846"}],
