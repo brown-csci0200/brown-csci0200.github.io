@@ -3,11 +3,41 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/04/22"],
+  "Topic": ["Dynamic Programming (pt. 1)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1w8vrbhxevpMWtt7z52j0xGFa2D3lCNlXUi-7WRe2Wy4/edit?usp=sharing"}],
+  "Files": []
+},
+{
+  "Date": ["03/25/22"],
+  "Topic": ["Switching to Python (pt. 2)"],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3e2451a5-9b9d-4092-a05e-ae3c00e18846"}],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1N4d2UVqFNEhaQyMd0ZJQ0mvLkvCrvQWaOk_so3NxoZE/edit?usp=sharing"}],
+  "Files": ["Keep referring to the Java to Python guide"]
+},
+{
+  "Date": ["03/23/22"],
+  "Topic": ["Switching to Python (pt. 1)"],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=724d1a60-c2b8-400e-b940-ae3c00e18828"}],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1PO81f2lPZ40FndinqP4kaYSxroLh_lw9uTVyMowJBXY/edit?usp=sharing"}],
+  "Files": [{"Java to Python guide": "https://hackmd.io/UDZsVd4iRYyBz_i74QqVyA"}]
+},
+{
+  "Date": ["03/21/22"],
+  "Topic": ["Recap and Threat Modeling"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35aac5bc-e3b1-4af2-b231-ae3c00e1880a"}],
+  "Handouts": [{"handout": "https://docs.google.com/presentation/d/1n7mbmNxgE8HqUpsutxNibDa08ou1z35_ZX_aM4WgmqM/edit?usp=sharing"}],
+  "Files":
+  [{"notes":"https://responsibleproblemsolving.github.io/threatmodeling/intro-lecturenotes.pdf"},
+  {"danah boyd's Fragmentation of Truth":"https://points.datasociety.net/the-fragmentation-of-truth-3c766ebb74cf"}]
+},
+{
   "Date": ["03/18/22"],
   "Topic": ["Garbage Collection"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73883bfb-cc32-4970-9e11-ae3c00e187ea"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/12QXy8thCHUSuhEG8nCmOx54bP67dRcAv8fqrsG3v0j4"}],
-  "Files": []
+  "Files": [{"notes":"https://drive.google.com/file/d/19t_zR4v9bI4iGeM9XDoBB5pImaLVFeLc/view?usp=sharing"}]
 },
 {
   "Date": ["03/16/22"],

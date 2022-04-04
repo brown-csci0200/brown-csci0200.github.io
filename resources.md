@@ -21,6 +21,11 @@ links: [
     "Type" : "Java Guides"
   },
   {
+    "Title": "Going from Java to Python",
+    "Link": "https://hackmd.io/UDZsVd4iRYyBz_i74QqVyA",
+    "Type": "Python Guides"
+  },
+  {
     "Title" : "VSCode and Python Setup Guide",
     "Link" : "https://hackmd.io/itkCN2TOSeGWoTYDlfX1jw",
     "Type" : "Python Guides"
