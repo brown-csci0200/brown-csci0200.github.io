@@ -40,12 +40,12 @@ contents: [
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 8"],
+      "Lab" : ["Lab 8 - No Lab"],
       "Out" : ["03/22/22"],
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 9"],
+      "Lab" : [{"Lab 9: Dynamic Programming" : "https://hackmd.io/slb5iE3zQd-JhoPbH_yYiw"}],
       "Out" : ["04/05/22"],
       "Additional Materials" : []
    }, 
