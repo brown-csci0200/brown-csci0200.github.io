@@ -20,7 +20,7 @@ contents: [
       "Additional Materials" : [{"Solution (3b - Basic)": "assets/labs/lab3a-sol.zip"},{"Solution (3b - Advanced)": "assets/labs/lab3b-sol.zip"}]
    }, 
    {
-      "Lab" : ["Lab 4"],
+      "Lab" : ["Lab 4 - No Lab"],
       "Out" : ["02/22/22"],
       "Additional Materials" : []
    }, 
@@ -35,17 +35,17 @@ contents: [
       "Additional Materials" : [{"Solution": "assets/labs/lab6-sol.zip"}]
    }, 
    {
-      "Lab" : ["Lab 7"],
+      "Lab" : ["Lab 7 - No Lab"],
       "Out" : ["03/15/22"],
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 8"],
+      "Lab" : ["Lab 8 - No Lab"],
       "Out" : ["03/22/22"],
       "Additional Materials" : []
    }, 
    {
-      "Lab" : ["Lab 9"],
+      "Lab" : [{"Lab 9: Dynamic Programming" : "https://hackmd.io/slb5iE3zQd-JhoPbH_yYiw"}],
       "Out" : ["04/05/22"],
       "Additional Materials" : []
    }, 

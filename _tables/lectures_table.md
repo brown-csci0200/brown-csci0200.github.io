@@ -3,6 +3,20 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/08/22"],
+  "Topic": ["Dynamic Programming (pt. 3)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/spreadsheets/d/1vMR8Fhc81LuIRap8nh2BuMVE4R9JEv02dQBzBKL3OcA/edit?usp=sharing"}],
+  "Files": []
+},  
+{
+  "Date": ["04/06/22"],
+  "Topic": ["Dynamic Programming (pt. 2)"],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a05c8e2c-b07a-4478-879f-ae3c00e188e8"}],
+  "Handouts": [{"handout": "https://docs.google.com/spreadsheets/d/1V4fUJh0pqQtv9Ay9TVJQsyWQd_3U4gsvDbJqhxKGz6A/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["04/04/22"],
   "Topic": ["Dynamic Programming (pt. 1)"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e30cb6c1-4e62-49d9-a5ed-ae3c00e188cb"}],
