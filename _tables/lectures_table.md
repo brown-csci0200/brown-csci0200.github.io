@@ -5,16 +5,17 @@ contents: [
 {
   "Date": ["04/08/22"],
   "Topic": ["Dynamic Programming (pt. 3)"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e971a4cf-15cb-4f29-b501-ae3c00e18909"}],
   "Handouts": [{"handout": "https://docs.google.com/spreadsheets/d/1vMR8Fhc81LuIRap8nh2BuMVE4R9JEv02dQBzBKL3OcA/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"notes (see pt.2 for all longest increasing sequence notes)": "assets/lectures/28dynprog3/dp3-notes.pdf"},
+            {"filled out Google Sheet": "https://docs.google.com/spreadsheets/d/1kBEY-V700YlleNhMeXxo3S-RpagGu_si16kPJpjgZzc/edit?usp=sharing"}]
 },  
 {
   "Date": ["04/06/22"],
   "Topic": ["Dynamic Programming (pt. 2)"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a05c8e2c-b07a-4478-879f-ae3c00e188e8"}],
   "Handouts": [{"handout": "https://docs.google.com/spreadsheets/d/1V4fUJh0pqQtv9Ay9TVJQsyWQd_3U4gsvDbJqhxKGz6A/edit?usp=sharing"}],
-  "Files": []
+  "Files": [{"notes (including longest increasing sequence implementation)": "assets/lectures/27dynprog2/dp2-notes.pdf"}]
 },
 {
   "Date": ["04/04/22"],
