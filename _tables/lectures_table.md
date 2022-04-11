@@ -5,7 +5,7 @@ contents: [
 {
   "Date": ["04/11/22"],
   "Topic": ["Heaps (pt. 1)"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49b9086a-79eb-4734-9748-ae3c00e18929"}],
   "Handouts": [{"handout": "https://docs.google.com/document/d/1ijdOIksutuSnxoymkIr1o47YkJ_Y_h4WbB6OvtNc2Ds"}],
   "Files": []
 },
