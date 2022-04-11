@@ -47,7 +47,7 @@ contents: [
    {
       "Lab" : [{"Lab 9: Dynamic Programming" : "https://hackmd.io/slb5iE3zQd-JhoPbH_yYiw"}],
       "Out" : ["04/05/22"],
-      "Additional Materials" : []
+      "Additional Materials" : [{"Solution": "assets/labs/lab9-sol.zip"}]
    }, 
    {
       "Lab" : ["Lab 10"],
