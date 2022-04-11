@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/11/22"],
+  "Topic": ["Heaps (pt. 1)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1ijdOIksutuSnxoymkIr1o47YkJ_Y_h4WbB6OvtNc2Ds"}],
+  "Files": []
+},
+{
   "Date": ["04/08/22"],
   "Topic": ["Dynamic Programming (pt. 3)"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e971a4cf-15cb-4f29-b501-ae3c00e18909"}],
