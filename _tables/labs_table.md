@@ -50,7 +50,7 @@ contents: [
       "Additional Materials" : [{"Solution": "assets/labs/lab9-sol.zip"}]
    }, 
    {
-      "Lab" : ["Lab 10"],
+      "Lab" : [{"Lab 10: Iterators and Regex" : "https://hackmd.io/@csci0200/Syu3-Z7V5"}],
       "Out" : ["04/12/22"],
       "Additional Materials" : []
    }, 
