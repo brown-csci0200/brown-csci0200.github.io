@@ -3,6 +3,14 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/13/22"],
+  "Topic": ["Implementing Heaps"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8cfd6b53-7a25-4ec1-8d07-ae3c00e18948"}],
+  "Handouts": [],
+  "Files": [{"notes":"https://drive.google.com/file/d/1oFOnU96oJ-nVtViPPALn1Y96ooExO8hM/view?usp=sharing"},
+              {"final code":"assets/lectures/30heaps/heaps.py"}]
+},
+{
   "Date": ["04/11/22"],
   "Topic": ["Heaps (conceptual)"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49b9086a-79eb-4734-9748-ae3c00e18929"}],
