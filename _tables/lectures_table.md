@@ -8,7 +8,7 @@ contents: [
   "Video": [],
   "Handouts": [{"handout (pptx) (recommended)": "assets/lectures/31avl/balance_bsts.pptx"},
                {"handout (google slides)": "https://docs.google.com/presentation/d/1OTbOu16RzEcNVsPss1AzfQVaRF4-Qd-AfQEjerSBIUo/edit?usp=sharing"},
-	       {"handout (pdf)": "assets/lectures/31avl/balance_bsts.pdf"}
+	       {"handout (pdf)": "assets/lectures/31avl/balance_bsts.pdf"}],
   "Files": []
 },
 {
