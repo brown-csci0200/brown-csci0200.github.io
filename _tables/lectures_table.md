@@ -3,6 +3,15 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/15/22"],
+  "Topic": ["Balancing BSTs"],
+  "Video": [],
+  "Handouts": [{"handout (pptx) (recommended)": "assets/lectures/31avl/balance_bsts.pptx"},
+               {"handout (google slides)": "https://docs.google.com/presentation/d/1OTbOu16RzEcNVsPss1AzfQVaRF4-Qd-AfQEjerSBIUo/edit?usp=sharing"},
+	       {"handout (pdf)": "assets/lectures/31avl/balance_bsts.pdf"}
+  "Files": []
+},
+{
   "Date": ["04/13/22"],
   "Topic": ["Implementing Heaps"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8cfd6b53-7a25-4ec1-8d07-ae3c00e18948"}],
