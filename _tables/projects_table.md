@@ -14,9 +14,10 @@ contents: [
       "Additional Resources" : [{"Gear Up Slides": "https://docs.google.com/presentation/d/1iirPmjT5B1PYob8AIpdvkeUUi_hW7TCmbSh5kefIBbk/edit?usp=sharing"}, {"Gear Up Video": "https://brown.zoom.us/rec/share/PlEN9depIX56x_2ySwJgLuttsq91ilnCumcJZXqPek0LPL5Z96AblaDpdVKB4gCc.Qf-xbKm990PDT2tc?startTime=1647197533000"}, "Refer to written lecture notes from 3/7 and onward"]
    },
    {
-      "Project":["Search"],
+      "Project":[{"Search": "https://hackmd.io/@csci0200/HyY_ZX94q"}],
       "Out" : ["04/17/22"],
-      "In" : ["04/29/22"]
+      "In" : ["05/03/22"],
+      "Additional Resources" : ["Gear Up Coming Soon!"]
    }
 ]
 ---
