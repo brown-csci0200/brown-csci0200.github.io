@@ -5,7 +5,7 @@ contents: [
 {
   "Date": ["04/18/22"],
   "Topic": ["Large Graphs: Binary Decision Diagrams (BDDs)"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a18aeae-78ea-4a3e-84fd-ae3c00e1898d"}],
   "Handouts": [{"handout": "https://drive.google.com/file/d/1yBoO71cUfV5XjoCcLP2vGvP3Mx77XHUn/view?usp=sharing"}],
   "Files": []
 },
