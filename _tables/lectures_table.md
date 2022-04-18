@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/18/22"],
+  "Topic": ["Large Graphs: Binary Decision Diagrams (BDDs)"],
+  "Video": [],
+  "Handouts": [{"handout": "https://drive.google.com/file/d/1yBoO71cUfV5XjoCcLP2vGvP3Mx77XHUn/view?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["04/15/22"],
   "Topic": ["Balancing BSTs"],
   "Video": [],
