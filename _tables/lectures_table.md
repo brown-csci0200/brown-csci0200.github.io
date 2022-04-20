@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/20/22"],
+  "Topic": ["Large Graphs: Community Detection"],
+  "Video": [],
+  "Handouts": [{"graph example (png)": "assets/lectures/33community/girvan-newman.png"}],
+  "Files": []
+},
+{
   "Date": ["04/18/22"],
   "Topic": ["Large Graphs: Binary Decision Diagrams (BDDs)"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6a18aeae-78ea-4a3e-84fd-ae3c00e1898d"}],
