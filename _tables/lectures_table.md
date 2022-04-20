@@ -5,8 +5,8 @@ contents: [
 {
   "Date": ["04/20/22"],
   "Topic": ["Large Graphs: Community Detection"],
-  "Video": [],
-  "Handouts": [{"graph example (png)": "assets/lectures/33community/girvan-newman.png"}],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f294919a-0ad1-42a0-848f-ae3c00e189aa"}],
+  "Handouts": [{"slides": "https://docs.google.com/presentation/d/1SOaotV9WRbCftU6lnBKPiVy3fmUwuFFVAJdarrKkgcg/edit?usp=sharing"}, {"graph example (png)": "assets/lectures/33community/girvan-newman.png"}],
   "Files": []
 },
 {
@@ -19,7 +19,7 @@ contents: [
 {
   "Date": ["04/15/22"],
   "Topic": ["Balancing BSTs"],
-  "Video": [],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99729231-c240-4914-8749-ae3c00e18971"}],
   "Handouts": [{"handout (pptx) (recommended)": "assets/lectures/31avl/balance_bsts.pptx"},
                {"handout (google slides)": "https://docs.google.com/presentation/d/1OTbOu16RzEcNVsPss1AzfQVaRF4-Qd-AfQEjerSBIUo/edit?usp=sharing"},
 	       {"handout (pdf)": "assets/lectures/31avl/balance_bsts.pdf"}],
