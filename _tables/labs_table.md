@@ -52,7 +52,7 @@ contents: [
    {
       "Lab" : [{"Lab 10: Iterators and Regex" : "https://hackmd.io/@csci0200/Syu3-Z7V5"}],
       "Out" : ["04/12/22"],
-      "Additional Materials" : []
+      "Additional Materials" : [{"Solution": "assets/labs/lab10-sol.zip"}]
    }, 
    {
       "Lab" : ["Lab 11"],
