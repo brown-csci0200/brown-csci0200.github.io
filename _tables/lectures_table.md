@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["04/22/22"],
+  "Topic": ["Graph coloring and applications"],
+  "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5807c14e-e5f2-4979-b588-ae3c00e189ca"}],
+  "Handouts": [{"handout": "https://docs.google.com/document/d/1oAkp9krxaDpY5B9i2q5KdeJnn_Ag9jRwnrxfTuP0YLo/edit?usp=sharing"}],
+  "Files": []
+},
+{
   "Date": ["04/20/22"],
   "Topic": ["Large Graphs: Community Detection"],
   "Video": [{"video": "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f294919a-0ad1-42a0-848f-ae3c00e189aa"}],
