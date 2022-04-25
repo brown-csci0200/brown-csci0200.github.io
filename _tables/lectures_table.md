@@ -3,9 +3,16 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
-  "Date": ["04/25/22"],
-  "Topic": ["Data Structure Selection Practice"],
+  "Date": ["04/27/22"],
+  "Topic": ["Data Structure Selection Practice 2; Course Wrap Up"],
   "Video": [],
+  "Handouts": ["same handout as last time"],
+  "Files": []
+},
+{
+  "Date": ["04/25/22"],
+  "Topic": ["Data Structure Selection Practice 1"],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb15b051-be60-4469-bb79-ae3c00e189e5"}],
   "Handouts": [{"handout": "assets/lectures/34design/Scenarios.pdf"}],
   "Files": []
 },
