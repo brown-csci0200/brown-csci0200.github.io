@@ -5,7 +5,7 @@ contents: [
 {
   "Date": ["04/27/22"],
   "Topic": ["Data Structure Selection Practice 2; Course Wrap Up"],
-  "Video": [],
+  "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5cd3e1b-b92f-4da0-b835-ae3c00e18a04"}],
   "Handouts": ["same handout as last time"],
   "Files": []
 },
