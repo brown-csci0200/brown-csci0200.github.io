@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["05/12/22"],
+  "Topic": ["Review Session -- Midterm and OO Design"],
+  "Video": [{"video":"https://brown.zoom.us/rec/share/QUPm1P2pUg0aUwZZSH_Ti6k8x6RJjRjX7duPNH7B_zRA_KIYv4XjqBYbC7P8NiRy.Cqerj_Z_xmNVc_NC?startTime=1652380101000"}],
+  "Handouts": [],
+  "Files": [{"whiteboard":"https://drive.google.com/file/d/1W3MzKKUyjjwzr7cK0SJd3LbUiMxebzgm/view?usp=sharing"}]
+},
+{
   "Date": ["04/27/22"],
   "Topic": ["Data Structure Selection Practice 2; Course Wrap Up"],
   "Video": [{"video":"https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5cd3e1b-b92f-4da0-b835-ae3c00e18a04"}],
