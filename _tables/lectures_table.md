@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["05/13/22"],
+  "Topic": ["Review Session -- Data Structures"],
+  "Video": [{"video":"https://brown.zoom.us/rec/share/wBtmD4JmBjXoDm7ouJH1AoVruzY5rM4DvT5spnSuKGyKdZ5iMLbFQh5SxN2FlT59.xKZcUTghQVfC4JA-"}],
+  "Handouts": [],
+  "Files": [{"whiteboard":"https://drive.google.com/file/d/1rAWKQtYEthaGF7ZrHzyw11dj5DED5xoi/view?usp=sharing"}]
+},
+{
   "Date": ["05/12/22"],
   "Topic": ["Review Session -- Midterm and OO Design"],
   "Video": [{"video":"https://brown.zoom.us/rec/share/QUPm1P2pUg0aUwZZSH_Ti6k8x6RJjRjX7duPNH7B_zRA_KIYv4XjqBYbC7P8NiRy.Cqerj_Z_xmNVc_NC?startTime=1652380101000"}],
