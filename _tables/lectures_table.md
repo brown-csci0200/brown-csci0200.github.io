@@ -3,6 +3,13 @@ cols: ["Date", "Topic", "Video", "Handouts", "Files"]
 
 contents: [
 {
+  "Date": ["05/16/22"],
+  "Topic": ["Review Session -- Algorithms"],
+  "Video": [{"video":"https://brown.zoom.us/rec/share/qvdsVHxZRi8TlffpDmrh9M6CasSIsIzBbe04eK4vV0dTFIZJ52jEvIeFORJxLBBF.gO2coJrqFA2l3sLJ"}],
+  "Handouts": [],
+  "Files": []
+},
+{
   "Date": ["05/13/22"],
   "Topic": ["Review Session -- Data Structures"],
   "Video": [{"video":"https://brown.zoom.us/rec/share/wBtmD4JmBjXoDm7ouJH1AoVruzY5rM4DvT5spnSuKGyKdZ5iMLbFQh5SxN2FlT59.xKZcUTghQVfC4JA-"}],
